@@ -1,5 +1,15 @@
 <header class="site-header">
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-136093723-1');
+	</script>
+
 	<div class="wrapper">
 
 		<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
