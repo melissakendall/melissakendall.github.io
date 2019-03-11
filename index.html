@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+	<header class="page-header">
+		<h1 class="page-title" itemprop="name headline">Welcome</h1>
+	</header>
+
+	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+		<div class="entry-content" itemprop="articleBody">
+			Melissa Kendall - Business Analyst, Techical Writer.
+			Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. After graduating from the University of Manitoba with B.Sc. in Computer Science, Melissa  found a way to combine her two passions, writing and programming, and became a Technical Writer. Alas, the allure of complex projects and organizational challenges lured her away and she currently works as Solution Analyst for iQmetrix. Melissa is a passionate public speaker, board game enthusiast and organizer of local community events aimed at getting kids interested in programming.
+		</div>
+	</article>
+	</div>
+
+	<header class="page-header">
+		<h1 class="page-title" itemprop="name headline">Posts</h1>
+	</header>
+
+	<ul class="post-list">
+		{% for post in site.posts %}
+		<li>
+			<article>
+				<header class="post-header">
+					<div>
+						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+					</div>
+
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</header>
+
+				<div class="entry-content">
+					{{ post.content }}
+				</div>
+			</article>
+		</li>
+		{% endfor %}
+	</ul>
+
+	<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
