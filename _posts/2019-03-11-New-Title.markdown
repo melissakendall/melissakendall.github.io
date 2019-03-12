@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evaluating APIs"
+title:  "Solution Analyst"
 date:   2019-03-11
 categories: [ BusinessAnalysis ]
 tags: [ ]
