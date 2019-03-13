@@ -25,3 +25,27 @@ layout: default
 		<a href="{{ site.url }}/software"><span class="post-category">Software Development</span></a>
 	</div>
 </div>
+
+<ul class="post-list">
+	{% for post in site.posts %}
+	<li>
+		<article>
+			<header class="post-header">
+				<div>
+					<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+				</div>
+
+				<h2>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</h2>
+			</header>
+
+			<div class="entry-content">
+				{{ post.content }}
+			</div>
+		</article>
+	</li>
+	{% endfor %}
+</ul>
+
+<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
