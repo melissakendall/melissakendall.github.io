@@ -2,7 +2,7 @@
 layout: post
 title:  "New Game"
 date:   2018-07-11
-categories: [ Boardgames ]
+categories: [ Software, Writing ]
 tags: [  ]
 ---
 

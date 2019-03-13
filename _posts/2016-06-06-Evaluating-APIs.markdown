@@ -2,8 +2,8 @@
 layout: post
 title:  "Evaluating APIs"
 date:   2016-06-06
-categories: [ TechWriting ]
-tags: [ API ]
+categories: [ Software ]
+tags: [ Software ]
 ---
 
 I was given an interesting task at work to compare the developer portals of various companies. This article outlines the rubric I developed in order to do the comparison.

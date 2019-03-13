@@ -2,7 +2,7 @@
 layout: post
 title:  "Path to ECBA"
 date:   2018-05-14
-categories: [ BusinessAnalysis ]
+categories: [ Software ]
 tags: [ IIBA ]
 thumbnail: ecba-graph.png
 ---

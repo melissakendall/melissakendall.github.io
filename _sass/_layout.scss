@@ -12,6 +12,13 @@
     position: relative;
 }
 
+.profile-pic {
+    border-radius: 50%;
+    width: 25%;
+    border: 2px solid #943526;
+    margin-top: 10px;
+}
+
 .site-title {
     font-family: "Playfair Display";
     font-size: 32px;
@@ -125,6 +132,21 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+}
+
+
+.post-category {
+    border: 1px #943526 solid;
+    background-color: #943526;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    margin: 5px;    
+}
+    
+.post-category-list {
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .post-meta {
