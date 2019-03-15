@@ -16,7 +16,13 @@
 	<meta property="og:title" content="{{ site.title }}">
 	{% endif %}
 
-	<!--<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">-->
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.base_url }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.base_url }}/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ site.base_url }}/favicon-16x16.png">
+	<link rel="manifest" href="{{ site.base_url }}/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
 
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
