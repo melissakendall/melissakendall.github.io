@@ -2,7 +2,7 @@
 layout: post
 title:  "Spicy Chicken Curry"
 date:   2019-03-15
-categories: [ Recipes ]
+categories: [ Recipe ]
 tags: [ Chicken ]
 thumbnail: 9.jpg
 ---
@@ -15,22 +15,22 @@ A fantastic spicy curry.
 
 **Ingredients**
 
-1 cup yogurt
-1 Tbs lemon juice
-2 tsp ground cumin
-1 tsp ground cinnamon
-2 tsp cayenne pepper
-2 tsp ground pepper
-½ tsp ground ginger
-1 Tbs salt
-3 boneless skinless chicken breasts, cut into bite-size peices
-1 Tbs butter
-1 clove garlic, minced
-2 tsp groud cumin
-2 tsp paprika
-1 tsp salt
-1 (8 oz) can tomato sauce
-1 cup heavy cream
+* 1 cup yogurt
+* 1 Tbs lemon juice
+* 2 tsp ground cumin
+* 1 tsp ground cinnamon
+* 2 tsp cayenne pepper
+* 2 tsp ground pepper
+* ½ tsp ground ginger
+* 1 Tbs salt
+* 3 boneless skinless chicken breasts, cut into bite-size peices
+* 1 Tbs butter
+* 1 clove garlic, minced
+* 2 tsp groud cumin
+* 2 tsp paprika
+* 1 tsp salt
+* 1 (8 oz) can tomato sauce
+* 1 cup heavy cream
 
 **Directions**
 
