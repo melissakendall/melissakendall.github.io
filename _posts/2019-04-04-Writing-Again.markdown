@@ -8,11 +8,9 @@ tags: [ Writing ]
 
 Camp NaNoWriMo has begun, as of April 1st!
 
-I am officially 5000 words into my second novel, which 
+I am officially 5000 words into my second novel. This one is suspense/thriller romance with a focus on technology. 
 
-This one is suspense/thriller romance with a focus on technology. 
-
-Preview (early draft, scene probably won't make final draft)
+**Preview** (An early draft, scene probably won't make final draft)
 
 "What are you doing here, anyway? It's late." Peter said.
 
