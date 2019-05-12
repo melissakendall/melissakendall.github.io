@@ -4,7 +4,7 @@ title:  "Plotting"
 date:   2019-05-12
 categories: [ Writing ]
 tags: [ Writing ]
-thumbnail: Writing1.jpg
+thumbnail: Writing1.png
 ---
 
 I heard it again and again as I was preparing to start my first novel for NaNoWriMo, but it never truly registered. Writing is HARD.
