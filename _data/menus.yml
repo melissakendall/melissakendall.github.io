@@ -1,10 +1,10 @@
 ---
 main:
-- weight: 1
-  title: Home
-- weight: 2
-  title: Blog
-- weight: 3
-  title: About
 - weight: 4
   title: Contact
+- weight: 3
+  title: About
+- weight: 2
+  title: Blog
+- weight: 1
+  title: Home
