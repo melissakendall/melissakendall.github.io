@@ -1,4 +1,4 @@
-title: Stackbit Fresh Theme
+title: Melissa Kendall Author
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -9,7 +9,7 @@ palette: blue
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
-  profile_img: images/avatar.png
+  profile_img: images/Avatar.jpg
   bg: dark
   has_nav: true
   has_social: true
