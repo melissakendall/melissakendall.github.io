@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      Adult Paranormal Romance Author
+      A Writer of Adult Paranormal Romance
   - section_id: about
     component: content_block.html
     type: contentblock

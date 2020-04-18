@@ -1,4 +1,4 @@
-title: Melissa Kendall Author
+title: Melissa Kendall
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -8,7 +8,7 @@ layout_style: overflow
 palette: blue
 header:
   title: Melissa Kendall
-  tagline: Paranormal Romance Author
+  tagline: Adult Paranormal Romance
   profile_img: images/Avatar.jpg
   bg: dark
   has_nav: true
