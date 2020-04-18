@@ -1,6 +1,11 @@
 ---
 title: Home
 sections:
+  - section_id: hero
+    component: hero_block.html
+    type: heroblock
+    content: >-
+      I write adult paranormal romance.
   - section_id: about
     component: content_block.html
     type: contentblock
