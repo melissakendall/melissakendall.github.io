@@ -1,8 +1,10 @@
 ---
 main:
-- title: Home
-  url: /
 - title: Contact
-  url: /contact
+  url: /Contact
+- title: Home
+  url: /  
+- title: Blog Posts
+  url: /blog
 - title: About
-  url: /about
+  url: /About

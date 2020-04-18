@@ -1,12 +1,30 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: Author, Techical Writer, Web Developer
 img_path: images/Blue.jpg
 layout: page
+permalink: /About
 ---
 
-Techical Writer, Product Owner, Web Developer. Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. 
+Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. A passionate public speaker, board game enthusiast and lover of all things Halloween, she spends her free time writing and spoiling her two cats.
 
-After graduating from the University of Manitoba with B.Sc. in Computer Science, Melissa found a way to combine her two passions, writing and programming as a Technical Writer specializing in APIs. 
+---
 
-Melissa is a passionate public speaker, board game enthusiast and lover of all things Halloween.
+<table style="text-align:center">
+    <tr>
+        <td> 
+            Portage
+        </td>
+        <td>
+            Ella
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src='/images/Portage.jpg' width='500'/> 
+        </td>   
+        <td>
+            <img src='/images/Ella.jpg' width='500'/> 
+        </td>
+    </tr>
+</table>
