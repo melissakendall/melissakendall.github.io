@@ -1,17 +1,12 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    component: hero_block.html
-    type: heroblock
-    content: >-
-      A Writer of Adult Paranormal Romance
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      Techical Writer, Product Owner, Web Developer. Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. 
+      Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. 
     actions:
       - label: Contact Me
         url: /contact
