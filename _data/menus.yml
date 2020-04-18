@@ -1,8 +1,8 @@
 ---
 main:
-- weight: 3
-  title: Contact
-- weight: 2
-  title: About
-- weight: 1
-  title: Blog
+- title: Home
+  url: index.md
+- title: Contact
+  url: contact.md
+- title: About
+  url: about.md
