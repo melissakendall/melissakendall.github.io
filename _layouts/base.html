@@ -6,6 +6,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="google" content="notranslate" />
+        
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         {% if page.layout == 'post' %} 
@@ -13,6 +14,12 @@
         {% if canonical_url_is_not_empty %}
         <link rel="canonical" href="{{ page.canonical_url }}"/>
         {% endif %}
+
+            {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
+            {% if content_img_path_is_not_empty %}
+            <meta property="og:image" content="{{page.content_img_path | relative_url}}">
+            {% endif %}
+
         {% endif %}
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
