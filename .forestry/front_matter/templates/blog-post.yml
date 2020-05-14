@@ -20,5 +20,31 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+- name: botmblurb
+  type: text
+  config:
+    required: true
+  label: botmBlurb
+  description: Book of the month blurb
+- name: amazonurl
+  type: text
+  config:
+    required: false
+  label: amazonUrl
+  description: Amazon URL to book
+- name: botm
+  type: file
+  config:
+    maxSize: 64
+  label: botm
+  description: Book of the month cover
+- name: botmcost
+  type: text
+  config:
+    required: false
+  label: botmCost
+  description: Cost
+  default: free
 pages:
 - _posts/2020-05-03-mistakes-were-made.md
