@@ -11,12 +11,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: thumb_img_path
-  label: thumb_img_path
-- type: file
-  name: content_img_path
-  label: content_img_path
 - type: text
   name: layout
   label: layout
@@ -33,12 +27,6 @@ fields:
     required: false
   label: amazonUrl
   description: Amazon URL to book
-- name: botm
-  type: file
-  config:
-    maxSize: 64
-  label: botm
-  description: Book of the month cover
 - name: botmcost
   type: text
   config:
@@ -46,6 +34,24 @@ fields:
   label: botmCost
   description: Cost
   default: free
+- name: content_img_path
+  type: text
+  config:
+    required: true
+  label: content_img_path
+  description: Image used in the post
+- name: botm
+  type: text
+  config:
+    required: false
+  label: botm
+  description: Path to book of the month cover
+- name: thumb_img_path
+  type: text
+  config:
+    required: false
+  label: thumb_img_path
+  description: Relative link to the thumb image
 pages:
 - _posts/2020-05-03-mistakes-were-made.md
 - _posts/2020-05-13-test-blog-post.md
