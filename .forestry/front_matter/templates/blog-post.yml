@@ -3,6 +3,17 @@ label: Blog post
 hide_body: false
 fields:
 - type: text
+  name: layout
+  label: layout
+  default: post
+- name: botmcost
+  type: text
+  config:
+    required: false
+  label: botmCost
+  description: Cost
+  default: free
+- type: text
   name: title
   label: title
 - type: text
@@ -11,10 +22,18 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: layout
-  label: layout
-  default: post
+- name: thumb_img_path
+  type: file
+  config:
+    maxSize: 64
+  label: thumb_img_path
+  description: Thumbnail
+- name: content_img_path
+  type: file
+  config:
+    maxSize: 64
+  label: content_img_path
+  description: Image for blog post
 - name: botmblurb
   type: text
   config:
@@ -25,33 +44,14 @@ fields:
   type: text
   config:
     required: false
-  label: amazonUrl
-  description: Amazon URL to book
-- name: botmcost
-  type: text
-  config:
-    required: false
-  label: botmCost
-  description: Cost
-  default: free
-- name: content_img_path
-  type: text
-  config:
-    required: true
-  label: content_img_path
-  description: Image used in the post
+  label: amazonurl
+  description: Amazon URL for the botm
 - name: botm
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: botm
-  description: Path to book of the month cover
-- name: thumb_img_path
-  type: text
-  config:
-    required: false
-  label: thumb_img_path
-  description: Relative link to the thumb image
+  description: Cover for the book of the month
 pages:
 - _posts/2020-05-03-mistakes-were-made.md
 - _posts/2020-05-13-test-blog-post.md
