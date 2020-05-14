@@ -15,7 +15,7 @@ layout: body
     {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
     {% if content_img_path_is_not_empty %}
     <div class="post-thumbnail">
-      <img src="{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" />
+      <img src="/uploads/{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" />
     </div><!-- .post-thumbnail -->
     {% endif %}
     <div class="post-content">
@@ -29,7 +29,7 @@ layout: body
     <p>{{page.botmBlurb}}</p>
 
     <p>
-      <a href="{{page.amazonUrl}}" target="_blank"><img src="{{ page.botm }}"></a>
+      <a href="{{page.amazonUrl}}" target="_blank"><img src="/uploads/{{ page.botm }}"></a>
     </p>
     
     <p>

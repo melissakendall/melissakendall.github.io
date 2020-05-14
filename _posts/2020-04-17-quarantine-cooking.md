@@ -2,12 +2,12 @@
 title: Quarantine Cooking
 excerpt: The past month has been an adventure in cooking.
 date: '2020-04-18'
-thumb_img_path: images/Champagne.jpg
-content_img_path: images/Champagne.jpg
+thumb_img_path: /Champagne.jpg
+content_img_path: /Champagne.jpg
 layout: post
 botmBlurb: Christine Pope is my new favourite author!
 amazonUrl: https://www.amazon.ca/Unquiet-Souls-Project-Demon-Hunters-ebook/dp/B07NPDYTYS/ref=sr_1_1?keywords=unquiet+souls&qid=1587255416&sr=8-1
-botm: /images/covers/unquiet-souls.jpg
+botm: /unquiet-souls.jpg
 botmCost: free
 ---
 

@@ -10,7 +10,7 @@ layout: body
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
         {% if thumb_img_path_is_not_empty %}
         <a class="post-thumbnail" href="{{ post.url | relative_url }}">
-          <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
+          <img class="thumbnail" src="/uploads{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
         </a>
         {% endif %}
         <header class="post-header">
