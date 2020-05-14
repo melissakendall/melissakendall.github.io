@@ -5,8 +5,8 @@ date: '2020-05-03'
 thumb_img_path: /ella-angry.jpg
 content_img_path: /ella-angry.jpg
 layout: post
-botmBlurb: I subscribe to "The Fussy Librarian" and get book deals sent to my email every Friday. So far I am happy with the service, although I usually only like one book in every two or three weeks. That is how I found out about this awesome series.
-amazonUrl: https://www.amazon.ca/dp/B0056I5M22/ref=cm_sw_r_sms_apa_i_bN0REbA914RAS
+botmblurb: I subscribe to "The Fussy Librarian" and get book deals sent to my email every Friday. So far I am happy with the service, although I usually only like one book in every two or three weeks. That is how I found out about this awesome series.
+amazonurl: https://www.amazon.ca/dp/B0056I5M22/ref=cm_sw_r_sms_apa_i_bN0REbA914RAS
 botm: //tuesday.jpg
 botmCost: free
 ---

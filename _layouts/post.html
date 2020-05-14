@@ -14,8 +14,8 @@ layout: body
     {% endif %}
     {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
     {% if content_img_path_is_not_empty %}
-    <div class="post-thumbnail">
-      <img src="/uploads/{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" />
+    <div class="post-thumbnail" style="text-align: center">
+      <img src="/uploads/{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" style="width:50%" />
     </div><!-- .post-thumbnail -->
     {% endif %}
     <div class="post-content">
@@ -24,16 +24,16 @@ layout: body
     
     <hr>
 
-    <h2 id="book-deal-of-the-month">Book Deal of the Month</h2>
+    <h2 id="book-deal-of-the-month">Book Deal</h2>
 
-    <p>{{page.botmBlurb}}</p>
+    <p>{{page.botmblurb}}</p>
 
     <p>
-      <a href="{{page.amazonUrl}}" target="_blank"><img src="/uploads/{{ page.botm }}"></a>
+      <a href="{{page.amazonurl}}" target="_blank"><img src="/uploads/{{ page.botm }}"></a>
     </p>
     
     <p>
-      Currently {{ page.botmCost }} on <a href="{{ page.amazonUrl }}" target="_blank">Amazon</a>.
+      Currently {{ page.botmCost }} on <a href="{{ page.amazonurl }}" target="_blank">Amazon</a>.
     </p>
 
     <footer class="post-meta">
