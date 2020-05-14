@@ -20,46 +20,24 @@ layout: body
     {% endif %}
     <div class="post-content">
       {{ content }}
-    </div><!-- .post-content -->
+    </div><!-- .post-content -->    
+    
+    <hr>
+
+    <h2 id="book-deal-of-the-month">Book Deal of the Month</h2>
+
+    <p>{{page.botmBlurb}}</p>
+
+    <p>
+      <a href="{{page.amazonUrl}}" target="_blank"><img src="{{ page.botm }}"></a>
+    </p>
+    
+    <p>
+      Currently {{ page.botmCost }} on <a href="{{ page.amazonUrl }}" target="_blank">Amazon</a>.
+    </p>
+
     <footer class="post-meta">
       <time class="published"
         datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
     </footer><!-- .post-meta -->
   </article><!-- .post -->
-
-  <!-- Next/previous post navigation TBD -->
-  <!--
-  <nav class="block read-next">
-    <h2 class="block-title underline">Read Next</h2>
-    <div class="post-feed">
-      <article class="post">
-        <div class="post-inside">
-          <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
-          <header class="post-header">
-            <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
-          </header>
-          <div class="post-content">
-            <p>Previous post excerpt...</p>
-          </div>
-          <footer class="post-meta">
-            <time class="published" datetime="">Previous post date</time>
-          </footer>
-        </div>
-      </article>
-      <article class="post">
-        <div class="post-inside">
-          <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
-          <header class="post-header">
-            <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
-          </header>
-          <div class="post-content">
-            <p>Next post excerpt...</p>
-          </div>
-          <footer class="post-meta">
-            <time class="published" datetime="">Next post date</time>
-          </footer>
-        </div>
-      </article>
-    </div>
-  </nav>
-  -->
