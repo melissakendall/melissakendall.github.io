@@ -1,4 +1,7 @@
 title: Melissa Kendall
+name: Author Melissa Kendall 
+description: Author & Technical Writer
+url: https://melissakendall.ca/
 baseurl: /
 permalink: '/:title/'
 collections:
