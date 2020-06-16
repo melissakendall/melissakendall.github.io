@@ -1,10 +1,8 @@
 ---
 layout: post
 botmcost: free
-title: Waltz of the Wallflower
-excerpt: After receiving a note that bore hurtful words from a suitor during the previous
-  London Season, Wallflower Miss Lydia Fortescue fears her third season will be as
-  disastrous as the previous two.
+title: Is it time to travel?
+excerpt: Is it the summer of road trips?
 date: 2020-06-16 00:00:00 -0600
 thumb_img_path: "/ella-small.jpg"
 content_img_path: "/ella-small.jpg"
