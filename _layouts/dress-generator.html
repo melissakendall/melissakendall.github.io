@@ -40,32 +40,21 @@ layout: base
 
       <script>
         $(function() {
-          //lavender, gauze
-          var colors = _.sample(['cream','emerald','mauve','scarlet','sapphire','ruby','ivory','cream','scarlet','rich gold','forest green','amber','rose','light green','apricot','dove grey','violet','lilac','maroon','bronze','burgundy','cerulean blue','chestnut','champagne','copper','ebony','vermillion','fawn','fuchsia','jade','lavender','silver','white','pink','mauve','blue','red','orange','yellow','black','mint','beige','purple'],4);
-          var fabrics = _.sample(['muslin','gauze','cotton','silk', 'satin','brocade', 'wool', 'wool','velvet','fur','twill','cotton', 'twill', 'cambric', 'satin', 'muslin', 'linen', 'chiffon'],4);
-          var dressType = _.sample(['evening gown', 'day dress', 'walking dress', 'dress', 'gown', 'night gown']);
-          var adjective = _.sample(['soft', 'smooth', 'warm', 'cool', 'delicate', 'sheer', 'heavy', 'striped', 'pleated', 'woven']);
-          var trim = _.sample(['tuille', 'feathers', 'pleated muslin', 'lace', 'fur', 'two-flounce', 'pink roses', 'cotton']);
-          var shape = _.sample(['hearts', 'stars', 'flowers', 'lace', 'ruffles', 'starlings']);
-          var sleeve = _.sample(['puff', 'bow', 'small', 'bell', 'cap', 'off the shoulder', 'lantern', 'petal', 'short', 'flutter']);
-          var lace = _.sample(['swiss', 'brussels', 'french', 'belgian', 'machine-made', 'cotton', 'croched', 'knitted', 'needle', 'bobbin', 'knotted']);
-          var neckLine = _.sample(['high','square-cut','heart-shaped','v-neck','"low',' square"','off the shoulder','asymmetrical','scoop','plunging','low','square']);
-          var skirtType = _.sample(['narrow','full','flat-fronted','short','full','narrow','full','short','full','narrow','short']);
-          var skirtDesc = _.sample(['ruched','pleated','gathered','asymmetrical','trumpet','wrap','tulip','tiered','layered','fitted','ruched']);
-          var flower = _.sample(['roses','violets','tulips','carnations','daisies','lillies','peonies','roses','roses','tulips','violets']);
-          var waist = _.sample(['fitted','empire','raised','lowered','high','dropped','cinched','raised','fitted','empire','low']);
-          var skirts = _.sample(['softly gathered','fitted','brocaded','sheer','fluttering','layered','simple','elegant','striking','striped','softly gathered'],2);
-          var hatAdj = _.sample([ 'small','compact','large','broad-brimmed','floppy','soft','tall','pointed','huge','small','small' ]);
-          var hatAcc = _.sample([ 'endorned','cluttered','decorated','scattered','embellished','outrageously plumed','covered','emblazoned','adorned','draped','decorated' ]);
-          var feather = _.sample(['ostrich','peacock','owl','heron','eagle','golden pheasant','condor','falcon','dove','peacock','ostrich']);
+          var colors = ['cream','emerald','mauve','scarlet','sapphire','ruby','ivory','rich gold','forest green','amber','rose','light green','apricot','dove grey','violet','lilac','maroon','bronze','burgundy','cerulean blue','chestnut','champagne','copper','ebony','vermillion','fawn','fuchsia','jade','lavender','silver','peach','white','pink','blue','red','orange','yellow','black','mint','beige','purple','saffron','cream'];
+          var adjectives = ['soft','smooth','warm','cool','delicate','sheer','heavy','woven','beaded','lacy','fitted','fluttering','simple','elegant','striking','compact','ruched','jacquard-woven','printed','pleated','glazed'];
+          var dressType = ['evening gown','day dress','walking dress','full mourning dress','half morning dress','mourning dress','riding dress','dress','night gown','fancy dress','gown','summer dress','afternoon dress','fancy dress','wedding dress'];
+          var adverbs = ['endorned','cluttered','decorated','scattered','embellished','covered','emblazoned','adorned','draped','feathered','softly folded','wrapped','box-pleated','printed','layered','brocaded','striped','pleated','ribboned','flounced','feathered','gathered','ribbed','brocaded','ruched'];
+          var fabrics = ['silk','chiffon','velvet','satin','muslin','wool','fur','cotton','linen','twill','cambric','taffeta','calico','canvas'];
+          var decorations = ['ostrich feathers','peacock feathers','owl feathers','heron feathers','eagle feathers','golden pheasant feathers','condor feathers','falcon feathers','dove feathers','mother of pearl beads','roses','violets','tulips','carnations','daisies','lillies','peonies','ribbons','lace','ribbons','glass beads','pearls','silk passementerie','frills','pleated flounces','iridescent beads','jet beads','crystal beads','silk rosettes'];
+          var sleeve = ['bow','puff','tied with bows','venetian','bell','cap','flutter','bishop','off the shoulder','petal','lantern','long','full','tight','frilled','straight','elbow-length','gathered','three-quarter','long',' flared','short',' flared','full',' flared'];        
+          var lace = ['brussels','machine made','belgian','french','swiss','cotton','crocheted','knitted','needle','bobbin','knotted','metal'];
+          var waist = ['fitted','empire','raised','lowered','high','dropped','cinched','low','hip-length','short','cuirasse','loose'];
+          var neckLine = ['high','square-cut','heart-shaped','v-neck','low, square','off the shoulder','asymmetrical','scoop','plunging','low, square','high, round','scalopped'];
+          var skirtType =  ['narrow','full','flat-fronted','short','straight-cut','flared','open'];
 
-
-          
-
-
-          var simple = `A(n) ${colors[0]} and ${colors[1]} ${dressType} made of ${adjective} ${fabrics[0]}, trimmed with ${fabrics[1]} and lined with ${colors[2]} ${fabrics[2]}.`
-          var detailed = `The dress has ${sleeve} sleeves with ${colors[3]} ${lace} lace, a ${neckLine} neckline, a ${skirtType} ${skirts[0]} skirt and ${waist} waist and an overdress of ${skirts[1]} ${colors[2]} ${fabrics[3]} embroidered with ${shape}.`
-          var hat = `A ${hatAdj} hat ${hatAcc} with ${feather} feathers and ${flower}.`
+          var simple = `A ${_.sample(colors)} and ${_.sample(colors)} ${_.sample(dressType)} made of ${_.sample(adjectives)} ${_.sample(fabrics)}, trimmed with ${_.sample(colors)} ${_.sample(fabrics)} and lined with ${_.sample(colors)} ${_.sample(fabrics)}.`
+          var detailed = `The dress has ${_.sample(sleeve)} sleeves with ${_.sample(colors)} ${_.sample(lace)} lace, a ${_.sample(neckLine)} neckline, a ${_.sample(skirtType)} skirt and ${_.sample(waist)} waist and an overdress of ${_.sample(adverbs)} ${_.sample(colors)} ${_.sample(fabrics)} decorated with ${_.sample(decorations)}.`
+          var hat = `A ${_.sample(adjectives)} hat ${_.sample(adverbs)} with ${_.sample(decorations)} and ${_.sample(decorations)}.`
           
           $("#dress-simple").text(simple);
           $("#dress-detail").text(detailed);
