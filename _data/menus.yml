@@ -8,3 +8,5 @@ main:
   url: /blog
 - title: Contact
   url: /Contact
+- title: Projects
+  url: /Projects
