@@ -11,3 +11,4 @@ On this page you will find some examples of the work I've done.
   * Technology: jQuery, nunjucks
 * [Sherlock Game](https://melissakendall.github.io/mystery-game/index.html) - A Sherlock Holmes style game based on [221b Baker Street Master Detective](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game), I wrote the stories, clues and solutions myself.
   * Technology: GitHub pages, Bootstrap, Firebase (note: the current version is hard coded while I transition to Firestore)
+* [Scooby Doo Movie Reviews](/scooby-doo) - Nothing technical here, just Scooby Doo movie reviews!
