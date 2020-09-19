@@ -12,34 +12,29 @@ layout: base
             <h1 class="post-title underline">{{ page.title }}</h1>
         </header><!-- .post-header -->
         
-        <p>Refresh the page to load a new dress description.</p>
-        
+        <p>Refresh the page to load a new Victorian description or click one of the following buttons.</p>  
+
+        <div>
+          <input type="submit" value="Victorian" name="generate" id="generate" class="button">          
+          <input type="submit" value="Western" name="generateWestern" id="generateWestern" class="button">          
+        </div>
+
+        <hr>
+
         <div>
           <table>
             <tr>
-              <td>Simple Victorian Era Historical</td>
-              <td id="dress-simple"></td>
+              <td>Simple</td>
+              <td id="simple"></td>
             </tr>
             <tr>
-              <td>Detailed Victorian Era Historical</td>
-              <td id="dress-detail"></td>
+              <td>Detailed</td>
+              <td id="detail"></td>
             </tr>
             <tr>
-              <td>Victorian Era Hat</td>
-              <td id="hat-simple"></td>
-            </tr>     
-            <tr>
-              <td>American Western 1</td>
-              <td id="western-fem"></td>
-            </tr>
-            <tr>
-              <td>American Western 2</td>
-              <td id="western-masc"></td>
-            </tr>
-            <tr>
-              <td>American Western Accessory</td>
-              <td id="western-acc"></td>              
-            </tr>                       
+              <td>Accessory</td>
+              <td id="accessory"></td>
+            </tr>                         
           </table>
         </div>
 
@@ -49,47 +44,8 @@ layout: base
       
       <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.10.2/underscore-min.js"></script>
+      <script src="./js/dress-generator.js"></script>
 
-      <script>
-        $(function() {
-          var colors = ['cream','emerald','mauve','scarlet','sapphire','ruby','ivory','rich gold','forest green','amber','rose','light green','apricot','dove grey','violet','lilac','maroon','bronze','burgundy','cerulean blue','chestnut','champagne','copper','ebony','vermillion','fawn','fuchsia','jade','lavender','silver','peach','white','pink','blue','red','orange','yellow','black','mint','beige','purple','saffron','cream'];
-          var adjectives = ['soft','smooth','warm','cool','delicate','sheer','heavy','woven','beaded','lacy','fitted','fluttering','simple','elegant','striking','compact','ruched','jacquard-woven','printed','pleated','glazed'];
-          var dressType = ['evening gown','day dress','walking dress','riding dress','dress','night gown','fancy dress','gown','summer dress','afternoon dress','fancy dress','wedding dress'];
-          var adverbs = ['endorned','cluttered','decorated','scattered','embellished','covered','emblazoned','adorned','draped','feathered','softly folded','wrapped','box-pleated','printed','layered','brocaded','striped','pleated','ribboned','flounced','feathered','gathered','ribbed','brocaded','ruched'];
-          var fabrics = ['silk','chiffon','velvet','satin','muslin','wool','fur','cotton','linen','twill','cambric','taffeta','calico','canvas'];
-          var decorations = ['ostrich feathers','peacock feathers','owl feathers','heron feathers','eagle feathers','golden pheasant feathers','condor feathers','falcon feathers','dove feathers','mother of pearl beads','roses','violets','tulips','carnations','daisies','lillies','peonies','ribbons','lace','ribbons','glass beads','pearls','silk passementerie','frills','pleated flounces','iridescent beads','jet beads','crystal beads','silk rosettes'];
-          var sleeve = ['bow','puff','tied with bows','venetian','bell','cap','flutter','bishop','off the shoulder','petal','lantern','long','full','tight','frilled','straight','elbow-length','gathered','three-quarter','long',' flared','short',' flared','full',' flared'];        
-          var lace = ['brussels','machine made','belgian','french','swiss','cotton','crocheted','knitted','needle','bobbin','knotted','metal'];
-          var waist = ['fitted','empire','raised','lowered','high','dropped','cinched','low','hip-length','short','cuirasse','loose'];
-          var neckLine = ['high','square-cut','heart-shaped','v-neck','low, square','off the shoulder','asymmetrical','scoop','plunging','low, square','high, round','scalopped'];
-          var skirtType =  ['narrow','full','flat-fronted','short','straight-cut','flared','open'];
-  
-          var westernDressTypes = [ 'dress'];
-          var westernAcc = ['hand rolled cigarette','double barrel shotgun','pistol','gold pocketwatch','bottle of whiskey'];
-          var westernHat = ['cowboy hat','stetson','wide-brimmed hat', 'sweatstained hat', 'hat'];
-          var westernMascColors = ['black', 'grey', 'brown', 'burgundy', 'green', 'blue', 'ebony', 'charcoal', 'olive'];
-          var westernAdjectives = ['well-worn','smooth','tattered','new','dusty','stiff','torn', 'dark', 'well-tailored','tailored','expertly tailored','form-fitting'];
-          var westernHatDesc = [ 'dusty', 'new', 'tattered', 'sweatstained', 'dirty', 'ancient'];
-          var westernFabricsMasc = ['leather', 'cotton', 'denim'];
-          var westernMascOutfit = ['suit', 'pin-striped suit', 'walking suit', 'shirt and levis', 'shirt and trousers', 'fancy suit'];
-
-          var simple = `A ${_.sample(colors)} and ${_.sample(colors)} ${_.sample(dressType)} made of ${_.sample(adjectives)} ${_.sample(fabrics)}, trimmed with ${_.sample(colors)} ${_.sample(fabrics)} and lined with ${_.sample(colors)} ${_.sample(fabrics)}.`
-          var detailed = `The dress has ${_.sample(sleeve)} sleeves with ${_.sample(colors)} ${_.sample(lace)} lace, a ${_.sample(neckLine)} neckline, a ${_.sample(skirtType)} skirt and ${_.sample(waist)} waist and an overdress of ${_.sample(adverbs)} ${_.sample(colors)} ${_.sample(fabrics)} decorated with ${_.sample(decorations)}.`
-          var hat = `A ${_.sample(adjectives)} hat ${_.sample(adverbs)} with ${_.sample(decorations)} and ${_.sample(decorations)}.`
-
-          var westernFeminine = `A ${_.sample(colors)} and ${_.sample(colors)} ${_.sample(westernDressTypes)} made of ${_.sample(adjectives)} ${_.sample(fabrics)}, trimmed with ${_.sample(colors)} ${_.sample(fabrics)} and lined with ${_.sample(colors)} ${_.sample(fabrics)}.`
-          var westernMasc = `A ${_.sample(westernAdjectives)} ${_.sample(westernMascColors)} ${_.sample(westernFabricsMasc)} ${_.sample(westernMascOutfit)}, ${_.sample(westernHatDesc)} ${_.sample(westernHat)} and ${_.sample(westernMascColors)} gloves.`
-          var westernAcc = `A ${_.sample(westernAcc)}.` 
-
-          $("#dress-simple").text(simple);
-          $("#dress-detail").text(detailed);
-          $("#hat-simple").text(hat);
-
-          $("#western-fem").text(westernFeminine);
-          $("#western-masc").text(westernMasc);
-          $("#western-acc").text(westernAcc);
-        });
-      </script>
     </div><!-- .inner -->
   </div><!-- .site-content -->
 </div><!-- .site -->
