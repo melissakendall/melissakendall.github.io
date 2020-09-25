@@ -28,7 +28,7 @@ permalink: /Scooby-Doo
 | Scooby-Doo! Legend of the Phantosaur |  |  |
 | Scooby-Doo! Music of the Vampire |  |  |
 | Big Top Scooby-Doo! |  |  |
-| Scooby-Doo! Mask of the Blue Falcon |  |  |
+| Scooby-Doo! Mask of the Blue Falcon | 6/10 | It's self-aware, so that gives pretty good marks from me. At times, it's depressing, but at other times it's funny. Solid middle of the road entry. |
 | Scooby-Doo! Adventures: The Mystery Map |  |  |
 | Scooby-Doo! Stage Fright |  |  |
 | Scooby-Doo! WrestleMania Mystery | 7/10 | I like it more then I expected. If you are familar with WWE you will probably eat this one up. If you don't like WWE, but you do like Scooby Doo... give it a chance. It's better then you'd expect. |
