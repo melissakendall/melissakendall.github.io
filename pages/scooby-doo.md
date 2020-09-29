@@ -21,7 +21,7 @@ permalink: /Scooby-Doo
 | Scooby-Doo! in Where's My Mummy? |  |  |
 | Scooby-Doo! Pirates Ahoy! |  |  |
 | Chill Out, Scooby-Doo! |  |  |
-| Scooby-Doo! and the Goblin King |  |  |
+| Scooby-Doo! and the Goblin King | 3/10 | Mostly boring with some highlights. Bonus points for being set on Halloween. The animation is strangely better than some of the more modern ones. The songs are truly atrocious. Tries too hard to be funny. Incredibly disappointed that it's so bad despite a cameo from Tim Curry and... Jay Leno, for some reason. |
 | Scooby-Doo! and the Samurai Sword |  |  |
 | Scooby-Doo! Abracadabra-Doo | 6/10 | It's good. It's not great. Velma's sister is a jewel, and her interactions with Shaggy are the best part of the movie. I guessed the ending in the first 10 minutes. |
 | Scooby-Doo! Camp Scare | 9/10 | Want a Scooby-Doo where you will almost certainly not guess the end? This is the one you want. Amazing animation, great songs, actual character development. I can't easily describe why I like this so much, but in the past month I've watched it a dozen times. |
