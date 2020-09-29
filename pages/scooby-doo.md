@@ -16,7 +16,7 @@ permalink: /Scooby-Doo
 | Scooby-Doo and the Cyber Chase | 6/10 | Some people like it, others don't. I enjoyed the idea, and seeing our characters in new situations. But it was pretty silly. |
 | Scooby-Doo! and the Legend of the Vampire |  |  |
 | Scooby-Doo! and the Monster of Mexico | 2/10 | Boring, predictable. Borderline offensive. |
-| Scooby-Doo! and the Loch Ness Monster |  |  |
+| Scooby-Doo! and the Loch Ness Monster | 3/10 | It's not without some high moments, but overall it's incredibly forgettable with terrible animation and a predictable mystery. |
 | Aloha, Scooby-Doo! | 5/10 | Well... It has some things going for it. The first half is very slow, but by the end it picks up. Side characters are infuriatng. Some people might like the songs. |
 | Scooby-Doo! in Where's My Mummy? |  |  |
 | Scooby-Doo! Pirates Ahoy! |  |  |
