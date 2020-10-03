@@ -33,7 +33,7 @@ permalink: /Scooby-Doo
 | Scooby-Doo! Stage Fright |  |  |
 | Scooby-Doo! WrestleMania Mystery | 7/10 | I like it more then I expected. If you are familar with WWE you will probably eat this one up. If you don't like WWE, but you do like Scooby Doo... give it a chance. It's better then you'd expect. |
 | Scooby-Doo! Frankencreepy | 9/10 | Divisive. Some people will love it, others will hate it because it has its own fast-paced style. I loved it. Seeing Velma's character explored more made me so happy. |
-| Scooby-Doo! Moon Monster Madness |  |  |
+| Scooby-Doo! Moon Monster Madness | 6/10 | It's Scooby-Doo in space, so I wanted to love it but my enjoyment was marred by a few things - everyone was shitting on Velma, its very unique sense of humor sometimes didn't work for me, and poor pacing. Otherwise, it was delightfully weird. In fact, this one is worth watching because it is just so...different. But in a good way. |
 | Scooby-Doo! and Kiss: Rock and Roll Mystery | 8/10 | This thing is ... just wild. I love it. The songs are fantastic (of course), the mystery is interesting and not completely predictable. It doesn't take itself too seriously and the animation is great, overall. | 
 | Lego Scooby-Doo! Haunted Hollywood |  |  | 
 | Scooby-Doo! and WWE: Curse of the Speed Demon |  |  |
