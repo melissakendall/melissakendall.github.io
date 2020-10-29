@@ -25,7 +25,7 @@ permalink: /Scooby-Doo
 | Scooby-Doo! and the Samurai Sword |  |  |
 | Scooby-Doo! Abracadabra-Doo | 6/10 | It's good. It's not great. Velma's sister is a jewel, and her interactions with Shaggy are the best part of the movie. I guessed the ending in the first 10 minutes. |
 | Scooby-Doo! Camp Scare | 9/10 | Want a Scooby-Doo where you will almost certainly not guess the end? This is the one you want. Amazing animation, great songs, actual character development. I can't easily describe why I like this so much, but in the past month I've watched it a dozen times. |
-| Scooby-Doo! Legend of the Phantosaur | 5/10 |  Well, I wanted to like it. But it's extremely average. It tries to make a unique attempt on familiar patterns, like Velma romance, but they don't quite work. Animation, music, themes. Better than some of the older ones, but nothing special. I'll probably delete this one and won't watch it again. |
+| Scooby-Doo! Legend of the Phantosaur | 5/10 |  Well, I wanted to like it, but it's extremely average. It tries to make a unique attempt on familiar patterns, like Velma romance, but they don't quite work. Animation, music, themes. Better than some of the older ones, but nothing special. I probably won't watch it again. |
 | Scooby-Doo! Music of the Vampire |  |  |
 | Big Top Scooby-Doo! |  |  |
 | Scooby-Doo! Mask of the Blue Falcon | 6/10 | It's self-aware, so that gives pretty good marks from me. At times, it's depressing, but at other times it's funny. Solid middle of the road entry. |
