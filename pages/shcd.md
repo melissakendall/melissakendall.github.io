@@ -80,6 +80,28 @@ When you think you have solved the case (and not before!), see the Questions sec
 
 A list locations in London. Some locations are unnamed. You might discover the names of these locations during the game.
 
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th></th><th></th><th></th><th></th><th>29 WC</th><th>68 WC</th><th>30 WC</th><th></th><th></th></tr></thead><tbody>
+ <tr><td></td><td></td><td></td><td>26 WC</td><td></td><td>27 WC</td><td>28 WC</td><td>94 WC</td><td></td></tr>
+ <tr><td>3 SW</td><td></td><td>25 WC</td><td></td><td></td><td>23 WC</td><td>19 WC</td><td>93 WC</td><td></td></tr>
+ <tr><td></td><td>4 SW</td><td>24 WC</td><td></td><td>90 WC</td><td></td><td>91 WC</td><td>92 WC</td><td>Water</td></tr>
+ <tr><td>86 SW</td><td></td><td></td><td>Square</td><td></td><td>22 WC</td><td>20 WC</td><td>Water</td><td>Water</td></tr>
+ <tr><td></td><td></td><td></td><td></td><td></td><td>21 WC</td><td>Bridge</td><td>Bridge</td><td>Bridge</td></tr>
+ <tr><td></td><td></td><td>10 SW</td><td></td><td>11 SW</td><td>85 SW</td><td></td><td>Water</td><td>Water</td></tr>
+</tbody></table>
+
 ### SW Area
 
 * 3 SW - Criteron Club 
