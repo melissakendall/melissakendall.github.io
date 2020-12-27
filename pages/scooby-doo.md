@@ -46,7 +46,7 @@ permalink: /Scooby-Doo
 | Scoob! | 6/10 | May be the cutest thing I've seen in my life even if the animation reminds me disturbingly of claymation. Not having Matthew Lillard as shaggy makes me irrationally angry. I was impressed how they managed to integrate jokes for kids with jokes that adults would get. They explore new definitions of the group's dynamics that I don't think I've seen before. despite the good, I probably wouldn't watch it again, because it was emotional, but not very fun. |
 | Happy Halloween, Scooby-Doo! | 5/10 | Terrible music. Lots of various crossovers that don't lend much to the story and a very "stranger things" vibe. Also, I've never seen Daphne so annoying. Despite all of that, I appreciate the return to the classic Scooby-Doo formula with the tropes we know and love. I'd say this one is only worth watching if you have kids, or if it happens to be on TV. Or if you love Bill Nye. |
 | (Live Action) Scooby-Doo | 6/10 | In what crazy world is Lillard the best actor? He is so expressive and hilarious and the sets are a amazing. Unfortunately there's also nightmare fuel CG and awful music, and most of the other actors are boring and not really funny or interesting. |
-| (Live Action) Scooby-Doo 2: Monsters Unleashed |  |  |
+| (Live Action) Scooby-Doo 2: Monsters Unleashed | 3/10 | There are only two good things about this movie: Seth Green and Lillard. Velma feels more like Buffy with all her fighting. |
 | (Live Action) Scooby-Doo! The Mystery Begins |  |  |
 | (Live Action) Scooby-Doo! Curse of the Lake Monster |  |  |
 | (Live Action) Daphne & Velma |  |  |
