@@ -4,8 +4,6 @@ main:
   url: /  
 - title: About
   url: /About
-- title: Blog Posts
-  url: /blog
 - title: Contact
   url: /Contact
 - title: Projects

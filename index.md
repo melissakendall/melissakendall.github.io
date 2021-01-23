@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      I write adult paranormal romance.
+      I write adult paranormal romance. 
   - section_id: about
     component: content_block.html
     type: contentblock
@@ -15,13 +15,23 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-  - section_id: recent-posts
-    component: posts_block.html
-    type: postsblock
-    title: Recent Posts
-    num_posts_displayed: 4
+  - section_id: speaking
+    component: content_block.html
+    type: contentblock
+    title: Speaking
+    content: >- 
+      I visit schools to talk about computer science and technical writing.
     actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: Speaking
+        url: /speaking    
+  - section_id: projects
+    component: content_block.html
+    type: contentblock
+    title: Projects
+    content: >-
+      Check out some of my projects.
+    actions:
+      - label: Projects
+        url: /projects
 layout: home
 ---
