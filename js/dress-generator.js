@@ -1,18 +1,18 @@
 $(function() {
 
     var clothing = {
-      colors: ['cream','emerald','mauve','scarlet','sapphire','ruby','ivory','rich gold','forest green','amber','rose','light green','apricot','dove grey','violet','lilac','maroon','bronze','burgundy','cerulean blue','chestnut','champagne','copper','ebony','vermillion','fawn','fuchsia','jade','lavender','silver','peach','white','pink','blue','red','orange','yellow','black','mint','beige','purple','saffron','cream'],
+      colors: ['cream','mauve','scarlet','sapphire','ruby','rich gold','forest green','rose','light green','dove grey','violet','lilac','maroon','bronze','burgundy','cerulean blue','chestnut','champagne','copper','vermillion','fawn','fuchsia','jade','lavender','silver','peach','white','pink','blue','red','yellow','black','mint','beige','purple','saffron','cream'],
       adverbs: ['endorned','cluttered','decorated','scattered','embellished','covered','emblazoned','adorned','draped','feathered','softly folded','wrapped','box-pleated','printed','layered','brocaded','striped','pleated','ribboned','flounced','feathered','gathered','ribbed','brocaded','ruched'],
       victorian: {
-        adjectives: ['soft','smooth','warm','cool','delicate','sheer','heavy','woven','beaded','lacy','fitted','fluttering','simple','elegant','striking','compact','ruched','jacquard-woven','printed','pleated','glazed'],
+        adjectives: ['soft','smooth','warm','cool','delicate','sheer','heavy','woven','beaded','lacy','fitted','fluttering','simple','striking','compact','ruched','jacquard-woven','printed','glazed'],
         dressType: ['evening gown','day dress','walking dress','riding dress','dress','night gown','fancy dress','gown','summer dress','afternoon dress','fancy dress','wedding dress'],
-        fabrics: ['silk','chiffon','velvet','satin','muslin','wool','fur','cotton','linen','twill','cambric','taffeta','calico','canvas'],
-        decorations: ['ostrich feathers','peacock feathers','owl feathers','heron feathers','eagle feathers','golden pheasant feathers','condor feathers','falcon feathers','dove feathers','mother of pearl beads','roses','violets','tulips','carnations','daisies','lillies','peonies','ribbons','lace','ribbons','glass beads','pearls','silk passementerie','frills','pleated flounces','iridescent beads','jet beads','crystal beads','silk rosettes'],
+        fabrics: ['silk','chiffon','silk velvet','wool flannel','woven silk','silk faille','silk twill','chiffon','organza','moire','velveteen','silk taffeta','velvet','satin','muslin','wool','fur','cotton','linen','twill','cambric','taffeta','calico','canvas'],
+        decorations: ['ostrich feathers','shell buttons','peacock feathers','owl feathers','heron feathers','eagle feathers','golden pheasant feathers','condor feathers','falcon feathers','dove feathers','mother of pearl beads','roses','violets','tulips','carnations','daisies','lillies','peonies','ribbons','lace','ribbons','glass beads','pearls','silk passementerie','frills','pleated flounces','iridescent beads','jet beads','crystal beads','silk rosettes'],
         sleeve: ['bow','puff','tied with bows','venetian','bell','cap','flutter','bishop','off the shoulder','petal','lantern','long','full','tight','frilled','straight','elbow-length','gathered','three-quarter','long',' flared','short',' flared','full',' flared'],
         lace: ['brussels','machine made','belgian','french','swiss','cotton','crocheted','knitted','needle','bobbin','knotted','metal'],
         waist: ['fitted','empire','raised','lowered','high','dropped','cinched','low','hip-length','short','cuirasse','loose'],
-        neckLine: ['high','square-cut','heart-shaped','v-neck','low, square','off the shoulder','asymmetrical','scoop','plunging','low, square','high, round','scalopped'],
-        skirtType:  ['narrow','full','flat-fronted','short','straight-cut','flared','open']
+        neckLine: ['high','square-cut','heart-shaped','v-neck','low, square','scoop','plunging','low, square','high, round','scalopped'],
+        skirtType:  ['narrow','full','flat-fronted','short','straight-cut','flared']
       },
       western: {
         accessories: ['hand rolled cigarette','double barrel shotgun','pistol','gold pocketwatch','bottle of whiskey', 'Derringer', 'belt knife', 'bandana', 'wire-rimmed spectacles', 'brass pocketwatch', 'silver pocketwatch', 'puff tie', 'kentucky string tie', 'bowtie', 'wool poncho'],
