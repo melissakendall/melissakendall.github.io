@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      I write adult Sci-fi and romance. 
+      Author of adult romance. 
   - section_id: about
     component: content_block.html
     type: contentblock
