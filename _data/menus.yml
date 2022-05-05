@@ -1,12 +1,14 @@
 ---
 main:
 - title: Home
-  url: /  
+  url: /
+- title: Writing
+  url: /writing  
+- title: Projects
+  url: /Projects
+- title: Blog posts
+  url: /blog
 - title: About
   url: /About
 - title: Contact
-  url: /Contact
-- title: Projects
-  url: /Projects
-- title: Writing
-  url: /writing
+  url: /Contact  

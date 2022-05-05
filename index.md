@@ -5,16 +5,16 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      Author of adult romance. 
+      I write adult romance. 
   - section_id: about
     component: content_block.html
     type: contentblock
-    title: About
+    title: Writing
     content: >-
-      Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. 
+      Learn about my upcoming books. 
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: Writing
+        url: /writing
   - section_id: speaking
     component: content_block.html
     type: contentblock

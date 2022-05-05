@@ -5,6 +5,7 @@ layout: page
 permalink: /Speaking
 ---
 
+* Guest lecturer, Comp 3040, University of Manitoba, Apr 2022
 * [YWCA Regina Women of Distinction Award, 2020](https://womenofdistinctionregina.com/)
     * [Nominated](https://youtu.be/VcFUrVUIB8k)
     * [Won](https://youtu.be/Bocq3-eI7J0)
