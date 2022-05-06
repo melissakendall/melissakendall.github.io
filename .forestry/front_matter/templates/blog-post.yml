@@ -52,3 +52,5 @@ fields:
     maxSize: 64
   label: botm
   description: Cover for the book of the month
+pages:
+- _posts/sold-a-book.md
