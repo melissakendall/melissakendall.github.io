@@ -18,7 +18,7 @@ This has been a long journey, so here are some of the highlights:
 
 * August, 2018: Decide to start writing fanfiction.
 * October, 2018: Get irrationally angry at a review and decide to "show them" by writing my own original story.
-* November, 2018: Finish writing first draft of Marked for NaNoWriMo. 
+* November, 2018: Finish writing first draft of Marked for NaNoWriMo.
 * January, 2019: Submit Marked to several edits and agents, receive many rejections.
 * March-July, 2019: Write a sequel to Marked called Deadly Harvest.
 * August 2019-September 2021: Write three other books. (Companion to the Count, The Problem of Thor High, Soulbound)
@@ -28,3 +28,16 @@ This has been a long journey, so here are some of the highlights:
 * May, 2022: Accepted by The Wild Rose Press!
 
 I look forward to sharing more soon!
+
+Stats for Marked for Harvest:
+
+* Agents
+  * Form rejections: 6
+  * Personalized rejections: 2
+  * CNR: 1
+  * Full requests: 2
+* Editors
+  * Form rejections: 3
+  * Personalized rejections: 2
+  * R&R: 1
+  * Offer: 1
