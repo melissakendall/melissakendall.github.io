@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: Author, Techical Writer, Web Developer.
-img_path: images/Blue.jpg
+subtitle: Author, Techical Writer.
+img_path: images/portrait.jpg
 layout: page
 permalink: /About
 ---
