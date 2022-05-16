@@ -53,5 +53,5 @@ fields:
   label: botm
   description: Cover for the book of the month
 pages:
+- _posts/2022-05-05-sold-a-book.md
 - _posts/july-draft.md
-- _posts/sold-a-book.md

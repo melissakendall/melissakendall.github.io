@@ -3,7 +3,7 @@ layout: post
 botmcost: "8.99"
 title: Sold a book!
 excerpt: Marked for Harvest finds a home!
-date: 2022-05-05 00:00:00 -0600
+date: 2022-05-05T00:00:00.000-06:00
 thumb_img_path: "/pxl_20220116_150028803.jpg"
 content_img_path: "/frjwrf7xmaijzh_.jpeg"
 botmblurb: The first book in my all time favorite series. This story takes werewolves
@@ -28,16 +28,3 @@ This has been a long journey, so here are some of the highlights:
 * May, 2022: Accepted by The Wild Rose Press!
 
 I look forward to sharing more soon!
-
-Stats for Marked for Harvest:
-
-* Agents
-  * Form rejections: 6
-  * Personalized rejections: 2
-  * CNR: 1
-  * Full requests: 2
-* Editors
-  * Form rejections: 3
-  * Personalized rejections: 2
-  * R&R: 1
-  * Offer: 1
