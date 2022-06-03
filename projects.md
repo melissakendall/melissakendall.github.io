@@ -16,6 +16,7 @@ On this page you will find some examples of the work I've done.
 
 ### Articles
 
+* [Hitting the wall](/hitting-the-wall) - June, 2022
 * [Evaluating Developer Experience](https://www.linkedin.com/pulse/evaluating-developer-experience-melissa-kendall/) - July, 2020 
 * [What kind of API documentation do I need?](https://www.linkedin.com/pulse/what-kind-api-documentation-do-i-need-melissa-kendall/) - May, 2019
 * [Path to ECBA](https://www.linkedin.com/pulse/path-ecba-melissa-kendall/) - May, 2018
