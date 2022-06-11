@@ -1,7 +1,7 @@
 ---
 layout: post
 botmcost: '1.97'
-title: July 18 Blog Post
+title: 'July 18 Blog Post '
 excerpt: Writing updates and other things
 date: 2022-07-18 00:00:00 -0600
 thumb_img_path: "/dsc06591.JPG"
