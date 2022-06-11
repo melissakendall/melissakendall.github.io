@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July 20 blog post
+title: June 20 blog post
 excerpt: Writing updates and character art
 date: 2022-06-20T00:00:00.000-06:00
 thumb_img_path: "/pxl_20210914_143200742.jpg"
