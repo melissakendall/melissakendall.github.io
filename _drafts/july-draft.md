@@ -1,7 +1,7 @@
 ---
 layout: post
 botmcost: "6.45"
-title: Writing updates and character art
+title: July 20 blog post
 excerpt: Writing updates and character art
 date: 2022-06-20 00:00:00 -0600
 thumb_img_path: "/pxl_20210914_143200742.jpg"
