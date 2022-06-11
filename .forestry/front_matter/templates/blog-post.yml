@@ -6,13 +6,6 @@ fields:
   name: layout
   label: layout
   default: post
-- name: botmcost
-  type: text
-  config:
-    required: false
-  label: botmCost
-  description: Cost
-  default: free
 - type: text
   name: title
   label: title

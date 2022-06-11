@@ -1,6 +1,5 @@
 ---
 layout: post
-botmcost: "6.45"
 title: July 20 blog post
 excerpt: Writing updates and character art
 date: 2022-06-20 00:00:00 -0600
