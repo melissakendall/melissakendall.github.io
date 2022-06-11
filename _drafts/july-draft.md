@@ -2,13 +2,20 @@
 layout: post
 title: July 20 blog post
 excerpt: Writing updates and character art
-date: 2022-06-20 00:00:00 -0600
+date: 2022-06-20T00:00:00.000-06:00
 thumb_img_path: "/pxl_20210914_143200742.jpg"
 content_img_path: "/pxl_20210914_143200742.jpg"
-botmblurb: Have I told you how much I love Christine Pope lately? Her books are so
-  lovely, and this is a great choice for something different!
-amazonurl: https://www.amazon.ca/gp/product/B09PQB2FZM
-botm: "/51haan6rafl.jpg"
+botmblurb: Z Unit doesn't exist. So a knock on the door on Christmas Day brings more
+  than one surprise to the special ops band of brothers. Lincoln ‘Ace’ Kelly has traded
+  everything for command of his unit and the girl who saved his life—even if she’s
+  furry and sleeps on the floor. Every year at Christmas the boys of his unit put
+  extra chairs around the table for the ones they’ve lost.  Next year, Lucas expects
+  to see new faces around the table and a whole lot more chairs.  When Hadleigh Rawson
+  knocks on his door on Christmas Day, Lucas is reminded of what Christmas is about—gratitude
+  for the band of soldiers who are more like brothers than employees, good food, better
+  company and the hope that an old grunt might be worthy of redemption and love.
+amazonurl: https://books2read.com/zboys0/
+botm: "/z-boys-table-for-10-final-ebook.webp"
 
 ---
 This month, I'm sharing the query letter, pitch, and other marketing material for MARKED that helped me sell it to Wild Rose Press.
