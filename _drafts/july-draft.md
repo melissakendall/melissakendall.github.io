@@ -3,7 +3,7 @@ layout: post
 botmcost: "6.45"
 title: Writing updates and character art
 excerpt: Writing updates and character art
-date: 2022-06-24 00:00:00 -0600
+date: 2022-06-20 00:00:00 -0600
 thumb_img_path: "/pxl_20210914_143200742.jpg"
 content_img_path: "/pxl_20210914_143200742.jpg"
 botmblurb: Have I told you how much I love Christine Pope lately? Her books are so
