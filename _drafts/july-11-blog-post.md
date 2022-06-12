@@ -6,21 +6,19 @@ excerpt: Writing updates and other things
 date: 2022-07-18 00:00:00 -0600
 thumb_img_path: "/dsc06591.JPG"
 content_img_path: "/dsc06591.JPG"
-botmblurb: Penny Briggs is a perfectly ordinary woman. Until her life takes a left
-  turn at Albuquerque…<br>I thought my marriage would be a fairy tale. Instead, I’ve
-  put a thousand miles between me and my broken dream, starting over with temp job
-  in Albuquerque. Prop shopping for a TV production takes my mind off my troubles
-  — until I buy an old pair of glasses no one on the set can wear.<br>Curious, I look
-  through the lenses myself — and they show me a wild vision of a lonely desert canyon
-  I’ve never seen before.<br>A friend directs me and my weird glasses to her cousin,
-  a brujo — a male witch — who specializes in weird. He’s also the most spectacularly
-  handsome man I’ve ever seen, with black hair, dark eyes, and a flashing smile so
-  dazzling, I almost miss his casual remark that my magic is powerful.<br>Magic? What
-  magic? I’m just an ordinary woman from an ordinary family.<br>Yet as the two of
-  us explore the mystery surrounding those supernatural glasses — and give in to our
-  growing attraction — I discover a past I knew nothing about. And that there’s a
-  dangerous reason it’s been hidden from me all these years….
-amazonurl: https://www.amazon.ca/Found-Objects-Paranormal-Fantasy-Unexpected-ebook/dp/B09PQB2FZM/
+botmblurb: When a remote mountain village is attacked, it sets off a chain reaction
+  that will change the course of history...<br><br>THE CLIMBER<br>When tragedy strikes,
+  ripping all that she loves from her, Wren must embark on a desperate rescue mission
+  across a kingdom on the cusp of rebellion. By her side, a mysterious ally whose
+  secrets might just change the course of her life forever.<br><br>THE DRAGONIR<br>Haunted
+  by a past he cannot escape, Lorca must gamble it on a stranger whose wild eyes and
+  secrets ensnare him. For with her, he may just find what he seeks…or watch as it
+  burns around him once again.<br><br>THE STRANGER<br>For her whole life, Sorcha has
+  been hidden away, burdened by ancient magic…and a future that looms like a coming
+  storm. But the time has come for her to claim her destiny, no matter the price.<br><br>Worlds
+  are about to collide in a struggle for power, hope and betrayal. For the path of
+  revenge is steeped in blood and darkness.
+amazonurl: https://www.amazon.ca/Girl-Ash-Snow-C-M-Quinn-ebook/dp/B09KQM2LDX/
 botm: "/59548869-_sy475_.jpg"
 
 ---
