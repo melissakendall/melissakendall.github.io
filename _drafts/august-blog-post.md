@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August blog post
+title: August 15 blog post
 excerpt: Writing updates and other things
 date: 2022-08-15 00:00:00 -0600
 thumb_img_path: "/dsc06612.JPG"
