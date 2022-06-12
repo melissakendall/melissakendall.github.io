@@ -21,6 +21,6 @@ botmblurb: Penny Briggs is a perfectly ordinary woman. Until her life takes a le
   growing attraction — I discover a past I knew nothing about. And that there’s a
   dangerous reason it’s been hidden from me all these years….
 amazonurl: https://www.amazon.ca/Found-Objects-Paranormal-Fantasy-Unexpected-ebook/dp/B09PQB2FZM/
-botm: "/51haan6rafl.jpg"
+botm: "/59548869-_sy475_.jpg"
 
 ---
