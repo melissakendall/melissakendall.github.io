@@ -21,7 +21,7 @@ amazonurl: https://www.amazon.ca/Girl-Ash-Snow-C-M-Quinn-ebook/dp/B09KQM2LDX/
 botm: "/59548869-_sy475_.jpg"
 ---
 
-This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count. Next month I'll share the query letter and Twitter pitches for CTTC.
+This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count. Next month I'll share the query letter, Twitter pitches, and querying stats for CTTC.
 
 ### The beginning
 
@@ -116,18 +116,3 @@ It was happening. Really happening. After 4 years, 5 books, and 8 short stories,
 I barely remember that call except that Lane was able to perfectly articulate all the things that had always bothered me about CTTC. I wanted to scream YES! YES! YES! But I had to let all the other agents who had my query know, first. The 2 weeks that followed were both exciting and painfully slow. I continued working with my editor at Wild Rose Press on my debut, and forced myself not to tweet anything vague.
 
 July 2nd, 2022. My deadline for all the other agents expired, and I gleefully told Lane that I would LOVE to be her client!
-
-### Final stats
-
-Here are the final querying stats for CTTC. I am well aware that my success is both due to incredible luck and privilege. I am white, cisgender, young, without children, without disability, financially stable, etc. I am posting these numbers here rather then directly on twitter so that people who are interested can read them, but people who might be discouraged don't have to.
-
-* Total queries: 10
-* Rejections:
-  * Full->R&R->Rejection: 1
-  * Form: 7
-  * CNR: 1 
-* Offers: 1
-
-These stats are for CTTC only, and don't include the dozens of rejections I received for MARKED, SOULBOUND, and 8 short stories.
-
-<!-- @TODO: Add Courney, Anne, Julie, Meg to these stats -->

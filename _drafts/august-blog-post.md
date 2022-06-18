@@ -59,3 +59,18 @@ Saffron's To Do list for August 24th, 1860:
 3. Recover family fortune
 
 Falling in love was never part of the plan.
+
+### Querying stats
+
+Here are the final querying stats for CTTC. I am well aware that my success is both due to incredible luck and privilege. I am white, cisgender, young, without children, without disability, financially stable, etc. I am posting these numbers here rather then directly on twitter so that people who are interested can read them, but people who might be discouraged don't have to.
+
+* Total queries: 10
+* Rejections:
+  * Full->R&R->Rejection: 1
+  * Form: 7
+  * CNR: 1 
+* Offers: 1
+
+These stats are for CTTC only, and don't include the dozens of rejections I received for MARKED, SOULBOUND, and 8 short stories.
+
+<!-- @TODO: Add Courney, Anne, Julie, Meg to these stats -->
