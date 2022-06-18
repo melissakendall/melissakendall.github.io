@@ -23,3 +23,39 @@ amazonurl: https://www.amazon.ca/Found-Objects-Paranormal-Fantasy-Unexpected-ebo
 botm: "/51haan6rafl.jpg"
 
 ---
+
+### Query letter
+
+Dear Agent Name,
+
+London, 1860. Saffron Summersby lost everything when her brother disappeared; her dresses, her dowry, her place in society. So when she sees her brother's face in the latest painting from famous anonymous artist Ravenmore, she comes up with a plan—learn the identity of the painter, find her brother, and restore her family to its former glory. 
+
+She doesn't expect the investigation to lead her into the den of a notorious rake. 
+
+After the death of his sister, Leopold “Leo” Mayweather gave up his wild ways and vowed never to love again. He devotes his time to keeping his sister's memory alive, distributing her paintings to local museums under the pseudonym Ravenmore. So when a rumor leads him to discover that someone is stealing his sister's paintings and replacing them with forgeries, he decides to set a trap. 
+
+He doesn't expect a beautiful woman to come barging into his office, determined to unmask him.
+
+Sparks fly when a carriage accident throws Saffron and Leo together on the eve of a country party. Fearing she will disrupt his plans, Leo agrees to introduce Saffron to Ravenmore in exchange for her silence and her assistance finding the thief. But when a series of suspicious accidents threaten Saffron's life, she will need Leo's help to uncover the truth of her brother's disappearance before she becomes the next missing person.
+
+COMPANION TO THE COUNT is an Adult historical romance complete at 60,000 words and will appeal to fans of Emily Sullivan's *A Rogue to Remember* and Bethany Bennett's *Any Rogue Will Do*.
+
+I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4. My debut adult paranormal romance will be published with Wild Rose Press in 2023.
+
+Thank you for your consideration.
+
+Melissa Kendall
+
+### Twitter pitches
+
+1860 London. A woman sees the face of her dead brother in the newest painting from a famous anonymous artist. To recover her family fortune, she must unmask the artist, even if the cost is her heart... or her life.
+
+In 1860s London, a famous anonymous artist falls in love with a woman determined to unmask him.
+
+Saffron's To Do list for August 24th, 1860:
+
+1. Unmask famous anonymous artist
+2. Find missing brother
+3. Recover family fortune
+
+Falling in love was never part of the plan.
