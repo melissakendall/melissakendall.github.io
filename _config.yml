@@ -1,6 +1,6 @@
 title: Melissa Kendall
-name: Author Melissa Kendall 
-description: Author & Technical Writer
+name: Melissa Kendall 
+description: Romance author
 url: https://melissakendall.ca/
 baseurl: /
 permalink: '/:title/'
@@ -11,7 +11,7 @@ layout_style: overflow
 palette: blue
 header:
   title: Melissa Kendall
-  tagline: Author & Technical Writer
+  tagline: Romance author
   profile_img: images/Avatar.jpg
   bg: dark
   has_nav: true
@@ -28,6 +28,7 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+  - jekyll-twitter-plugin
 exclude:
   - Gemfile
   - Gemfile.lock

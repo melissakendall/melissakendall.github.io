@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Author, Techical Writer.
+subtitle: Romance author
 img_path: images/portrait.jpg
 layout: page
 permalink: /About
