@@ -2,7 +2,7 @@
 layout: post
 title: Query letter and pitches
 excerpt: Writing updates and character art
-date: 2022-06-18T12:00:00.000-06:00
+date: 2022-06-18T11:39:00.000-06:00
 thumb_img_path: "/pxl_20210914_143200742.jpg"
 content_img_path: "/pxl_20210914_143200742.jpg"
 botmblurb: Z Unit doesn't exist. So a knock on the door on Christmas Day brings more
