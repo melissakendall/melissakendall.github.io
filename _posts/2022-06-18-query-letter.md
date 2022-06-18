@@ -21,7 +21,7 @@ botm: "/z-boys-table-for-10-final-ebook.webp"
 
 This month, I'm sharing the query letter, pitch, and other marketing material for MARKED that helped me sell it to Wild Rose Press.
 
-**Query letter**
+### Query letter
 
 Elena Cain has no patience for the dead. 
 
@@ -41,10 +41,21 @@ MARKED FOR HARVEST is a standalone paranormal romance complete at 55,000 words w
 
 I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4.
 
-**Twitter pitches**
+### Twitter pitches
 
 GHOST WHISPERER X THE GIRL WITH THE DRAGON TATTOO A medium who wears the dead on her skin returns to her childhood home to find a woman floating face down in her pool. The police call it an accident. The tattoo on her chest says otherwise.
 
 Elena Cain returns home after a 15-year absence to find her childhood friend floating face down in her pool. The police call it an accident. The newly formed tattoo on her chest says otherwise.
 
 A medium who wears the souls of the dead on her skin finds her childhood friend floating face down in her pool. The police call an accident. The newly formed tattoo on her chest says otherwise.
+
+### Querying stats
+
+This is a mix of agents and editors:
+
+* Total queries: 16
+* Rejections
+  * Full requests->Rejections: 4
+  * Form rejections: 10
+  * R&R->Rejection: 1
+* Offers: 1
