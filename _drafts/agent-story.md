@@ -2,7 +2,7 @@
 layout: post
 title: 'How I got my agent'
 excerpt: The story of how I got my agent.
-date: 2022-07-05 00:00:00 -0600
+date: 2022-07-29 00:00:00 -0600
 thumb_img_path: "/dsc06591.JPG"
 content_img_path: "/dsc06591.JPG"
 botmblurb: When a remote mountain village is attacked, it sets off a chain reaction
@@ -21,39 +21,47 @@ amazonurl: https://www.amazon.ca/Girl-Ash-Snow-C-M-Quinn-ebook/dp/B09KQM2LDX/
 botm: "/59548869-_sy475_.jpg"
 ---
 
-This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count. Next month I'll share the query letter, Twitter pitches, and querying stats for CTTC.
+This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count. Next month I'll share the query letter, Twitter pitches, and querying stats for Companion to the Count.
 
-### The beginning
+This is a long story, so I've tried to break it up with GIFs and headings.
 
-In summer, 2018, I got really interested in a Japanese manga (Skip Beat) and decided to write fanfiction for the first time in a decade. I'd written fanfiction obsessively in my teens, but dropped it when I graduated high school.
+### It Begins
 
-Then one day, I got a review that mentioned my story had an abundance of "purple prose". I had no idea what that was! I looked it up, then got irrationally angry. I decided to *show them* by writing my own original fiction!
+My journey began in October, 2018 when a friend at work introduced me to [NaNoWriMo](https://nanowrimo.org/).
 
-This is what led me to discovering [NaNoWriMo](https://nanowrimo.org/).
+I went through all the NaNoWriMo planning and then wrote my first draft of Marked for Harvest, an adult paranormal romance.
 
-### NaNoWriMo
+As you might imagine, I soon realized that if I wanted to sell Marked for Harvest, I had a long road ahead of me.
 
-In October, 2018, I came up with my idea: tattoos as ghosts. 
+I went to the library and read books on editing and watched hours of YouTube videos by a popular Book-Tuber. Thats when I realized that I could join their discord and find a critique partner!
 
-I have no idea what prompted this idea, it just came to me. I knew I wanted a shorter book, and one that was spicy. I went through all the NaNoWriMo planning and even did some write-ins at the Saskatchewan Writers Guild. I went to the library and read a dozen books on editing and then watched YouTube videos by a popular Book-Tuber. Thats when I realized that I could join their discord and find a critique partner!
+The next several months were a chaotic mess of jumping around discord writing groups. I read and reviewed dozens of manuscripts for other writers. Most of those critique partners I have lost contact with, but at least one still reads all of my books. My debut paranormal romance is dedicated to her.
 
-The next several months were a chaotic mess of finding more and more discord writing groups. I read and reviewed dozens of manuscripts for other writers. Most of those critique partners I have lost contact with, but at least one still reads all of my books. My debut paranormal romance is dedicated to her.
+![A GIF of a pulsing, smiling red heart](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
-### Querying
+### Diving in
 
-After working with critique partners for months, I finally decided it was time. I'd watched every YouTube video on querying. I'd read every article on Query Shark's website. I'd made a query letter, synopsis, twitter pitches, and more.
+After working with critique partners for months, I finally decided it was time. I'd watched dozens of YouTube videos on querying. I'd read every article on [Query Shark's website](https://queryshark.blogspot.com/). I'd made a query letter, synopsis, twitter pitches, and more.
 
-I was ready for MARKED FOR HARVEST to go out into the world.
+I was ready for my very first book to go out to agents.
 
 *Note: I was not ready.*
 
-I sent my first query to Tule (why not an agent? I have no idea...) in January, 2019. They later responded with a very kind rejection that encouraged me to keep going. Rejections from Carina, Forever Yours, and others followed. Around this time I also queried half a dozen agents and had 1 full request, which later turned into a kind rejection.
+I sent my first query for Marked for Harvest in January, 2019. That agent responded with a very kind rejection that encouraged me to keep going. Many more rejections followed. Around this time I also queried half a dozen agents and received 1 full request, which later turned into a kind rejection.
 
-### Deadly Harvest and YA experiment
+"You can't expect your first book to be a success," I told myself. "Write another one. This time it'll be better."
 
-I eventually became tired of querying in 2019 and started writing a new book, a sequel to MARKED. It took a few months for me to realize that the plot wasn't working, and I shelved it. Around this time, I wanted to try something different, writing in first person. I planned, outlined, and wrote a young adult mystery called The Problem of Thor High, based on the Sherlock Holmes story The Problem of Thor Bridge.
+![A GIF of a young determined child saying I'll not give up!!](https://media.giphy.com/media/2EF04JjLX4vMefHhZZ/giphy.gif)
 
-It was a fun experiment, but that story will probably be shelved forever.
+### Write, write, write!
+
+It took me a few months of writing my second book to realize that the plot wasn't working, and I shelved it. Around this time, I wanted to try something different, writing in first person. I planned, outlined, and wrote a young adult mystery called The Problem of Thor High, based on the Sherlock Holmes story The Problem of Thor Bridge.
+
+It was a fun experiment, but I knew I didn't want to be a YA author. I wanted to write books for adults, the books I loved to read.
+
+So I shelved The Problem of Thor Bridge in January, 2020.
+
+![A GIF of David Tenant as Doctor Who standing in the rain](https://media.giphy.com/media/Jq7y34Hgfy01y/giphy.gif)
 
 ### The Bad Time
 
@@ -61,43 +69,63 @@ Yeah.
 
 Let's just skip this part.
 
-### Writing CTTC
+### Writing the story of my heart
 
-I knew I wanted to write a historical romance set in 1800s London. I had read so many of them growing up, but I was intimidated by the research required. I told myself I'll write a few other books first. By summer 2020, I knew it was time. I did hours of painstaking research, even creating a [generator](/dress-generator) by scraping real museum records. That summer and fall was filled with rejections and revising.
+Honesty time.
 
-### Writerly Room, Soulbound, and short stories
+The moment I started writing creatively, I knew I wanted to write a historical romance set in 1800s London. I had read so many of them growing up, but I was intimidated by the research required. I told myself I'll write a few other books first. By summer 2020, I knew it was time. I did hours of painstaking research, even creating a [dress generator](/dress-generator) by scraping real museum records.
+
+That summer and fall was filled with writing, revising, and many more rejections.
+
+![A GIF of Kermit typing on a typewriter](https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif)
+
+### Another failed book
 
 In August, 2020, I accepted a new job, and my writing was put to the side. Instead, I formed a group of creative writers at work called Writerly Room. This group has grown to 120+ writers as of 2022, and they are my biggest source of inspiration and pride.
 
-After a few months of adjustment to my new job, I watched a show called Truth Seekers, and was floored by what a missed opportunity it seemed (to me). I decided then and there to write an adult Sci-Fi with a found family alien dynamic. That book became Soulbound, and is based around the question: what if you could 3D print anything?
+When I finally got back to writing, I decided to try something new. I'd only ever written short books, but my next book would be long. While deciding what to write, I watched a show called Truth Seekers, and was floored by what a missed opportunity it seemed (to me). That gave me the idea for Soulbound, an adult Sci-Fi with a found family alien dynamic.
 
-That book got a 100% form rejection rate from agents.
+I love that book so much, but it got a 100% form rejection rate from agents. It too, was shelved.
 
-I took a break from writing novels to write some short stories. Learning how to submit to magazines was exciting and different, especially when *the very first one I sent was accepted*. All my lost motivation came rushing back. I could do this!
+![A GIF of Pikachu crying](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
+*Note: Yes, I give up way too easily!*
+
+### My first acceptance
+
+In spring, 2021, I took a break from writing novels to write some short stories. Learning how to submit to magazines was exciting and different, especially when *the very first one I sent was accepted*. All my lost motivation came rushing back. I could do this!
 
 Feast was published in [Sanitarium Magazine](https://www.amazon.com/Sanitarium-Magazine-Issue/dp/B09CKYSY7N).
 
-### Failed R&R and Wild Rose Press
+![A GIF of green parrots dancing](https://media.giphy.com/media/ZUomWFktUWpFu/giphy-downsized-large.gif)
 
-In August, 2021, I received an unexpected R&R for MARKED from an editor! I was so excited. I immediately contracted with a developmental editor I had found on twitter.
+### Failed R&R
+
+In August, 2021, I received an unexpected R&R for Marked for Harvest from an editor! I was so excited. I immediately contracted with a developmental editor I had found on twitter.
 
 *Yes. I paid for a developmental edit.*
 
 I don't regret this decision, but I also want to be clear that this was a choice I made for reasons I won't go into here. For the record, I do NOT think querying authors need to pay for editors.
 
-My developmental editor provided me with an edit letter and marked up manuscript. I knew MARKED needed to be entirely rewritten, and so I worked on it dilligently for months. Finally, I resubmitted... and received a kind rejection.
+My developmental editor provided me with an edit letter and a marked up manuscript. I knew Marked for Harvest needed to be entirely rewritten, and so I worked on it dilligently for months. Finally, I resubmitted... and received a kind rejection.
 
 I. Was. Devestated.
 
-But I didn't give up. I continued querying CTTC, in January, 2022, I received a R&R from an agent! My developmental editor helped me address the feedback the agent provided, and I sent off the R&R feeling good about it. I knew I was so close.
+![A GIF of a cartoon mushroom crying](https://media.giphy.com/media/zt1q7lREccTi4n9ohB/giphy.gif)
 
-At this time, a writer in one of my writing groups suggested Wild Rose Press for MARKED. I thought *why not?* and sent it off. A full request followed, then an acceptance in May, 2022!
+### Another R&R and Wild Rose Press
+
+But I didn't give up. I continued querying Companion to the Count and in January, 2022, I received a R&R from an agent! My developmental editor helped me address the feedback the agent provided, and I sent off the R&R feeling good about it. I knew I was so close.
+
+At this time, a writer in one of my writing groups suggested Wild Rose Press for Marked for Harvest. I thought *why not?* and sent it off. A full request followed, then an acceptance in May, 2022!
 
 I couldn't believe it. Things were happening that I had only dreamed of.
 
+![A GIF of Jimmy Fallon saying "About to Ugly Cry"](https://media.giphy.com/media/3oKIPxUEW6L9OX8vPW/giphy.gif)
+
 ### CanLitPit
 
-June 1st, 2022. I logged into twitter to see a new event called [canlitpit](https://digiwriting.com/canlitpit/) for Canadian writers. I shrugged and sent out my standard tweets for CTTC.
+June 1st, 2022. I logged into twitter to see a new event called [canlitpit](https://digiwriting.com/canlitpit/) for Canadian writers. I shrugged and sent out my standard tweets for Companion to the Count.
 
 Two agents liked my tweet. TWO!
 
@@ -107,12 +135,16 @@ I got a full request within *17 minutes*.
 
 I thought I was going to explode with excitement. I sent off the full, and crossed my fingers.
 
+![A GIF of America's Got Talent judge Mel B saying "I am rooting for you"](https://media.giphy.com/media/1iTX9tGRTTTVZb7q/giphy.gif)
+
 ### Agent call
 
 I woke up on June 14th to the email that stole the breath from my lungs. A CALL. AN AGENT CALL.
 
 It was happening. Really happening. After 4 years, 5 books, and 8 short stories, an agent wanted to talk to me!
 
-I barely remember that call except that Lane was able to perfectly articulate all the things that had always bothered me about CTTC. I wanted to scream YES! YES! YES! But I had to let all the other agents who had my query know, first. The 2 weeks that followed were both exciting and painfully slow. I continued working with my editor at Wild Rose Press on my debut, and forced myself not to tweet anything vague.
+I barely remember that call. I wanted to scream YES! YES! YES! But I had to let all the other agents who had my query know, first. The 2 weeks that followed were both exciting and painfully slow. I continued working with my editor at Wild Rose Press on my debut, and forced myself not to tweet anything vague.
 
 July 2nd, 2022. My deadline for all the other agents expired, and I gleefully told Lane that I would LOVE to be her client!
+
+![A GIF of a cartoon bunny clapping its hands](https://media.giphy.com/media/MeIucAjPKoA120R7sN/giphy.gif)

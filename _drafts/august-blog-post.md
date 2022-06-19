@@ -24,6 +24,8 @@ botm: "/51haan6rafl.jpg"
 
 ---
 
+This month, I'm sharing the successful query letter, pitch, and other marketing material for Companion to the Count.
+
 ### Query letter
 
 Dear Agent Name,
@@ -62,7 +64,7 @@ Falling in love was never part of the plan.
 
 ### Querying stats
 
-Here are the final querying stats for CTTC. I am well aware that my success is both due to incredible luck and privilege. I am white, cisgender, young, without children, without disability, financially stable, etc. I am posting these numbers here rather then directly on twitter so that people who are interested can read them, but people who might be discouraged don't have to.
+Here are the final querying stats for Companion to the Count. I also want to recognize all the ways I am privileged. I am white, cisgender, young, without children, etc.
 
 * Total queries: 10
 * Rejections:
@@ -70,7 +72,5 @@ Here are the final querying stats for CTTC. I am well aware that my success is b
   * Form: 7
   * CNR: 1 
 * Offers: 1
-
-These stats are for CTTC only, and don't include the dozens of rejections I received for MARKED, SOULBOUND, and 8 short stories.
 
 <!-- @TODO: Add Courney, Anne, Julie, Meg to these stats -->
