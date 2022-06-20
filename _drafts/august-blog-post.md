@@ -28,7 +28,7 @@ This month, I'm sharing the successful query letter, pitch, and other marketing 
 
 ### Query letter
 
-Dear Agent Name,
+Dear [Agent Name],
 
 London, 1860. Saffron Summersby lost everything when her brother disappeared; her dresses, her dowry, her place in society. So when she sees her brother's face in the latest painting from famous anonymous artist Ravenmore, she comes up with a plan—learn the identity of the painter, find her brother, and restore her family to its former glory. 
 
@@ -66,11 +66,12 @@ Falling in love was never part of the plan.
 
 Here are the final querying stats for Companion to the Count. I also want to recognize all the ways I am privileged. I am white, cisgender, young, without children, etc.
 
-* Total queries: 10
+* Total queries: 14
 * Rejections:
   * Full->R&R->Rejection: 1
   * Form: 7
-  * CNR: 1 
+  * Personalized: 1
+  * CNR: 1
 * Offers: 1
 
-<!-- @TODO: Add Courney, Anne, Julie, Meg to these stats -->
+<!-- @TODO: Add Courney, Julie, Meg to these stats -->
