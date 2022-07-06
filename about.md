@@ -8,6 +8,8 @@ permalink: /About
 
 Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. A passionate public speaker, board game enthusiast and lover of all things Halloween, she spends her free time writing and spoiling her two cats.
 
+Melissa is represented by Lane Clark at [ArtHouse Literary](https://arthouselit.com/).
+
 ---
 
 <table style="text-align:center">
