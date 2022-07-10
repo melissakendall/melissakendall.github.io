@@ -13,6 +13,7 @@ header:
   title: Melissa Kendall
   tagline: Romance author
   profile_img: images/Avatar.jpg
+  header_img: images/cover-reveal-header.png
   bg: dark
   has_nav: true
   has_social: true
