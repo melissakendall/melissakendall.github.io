@@ -1,8 +1,8 @@
 ---
 layout: post
-title: August 15 blog post
-excerpt: Writing updates and other things
-date: 2022-08-15 00:00:00 -0600
+title: Historical romance query letter
+excerpt: The query letter that got me an agent.
+date: 2022-08-01T11:39:00.000-06:00
 thumb_img_path: "/dsc06612.JPG"
 content_img_path: "/dsc06612.JPG"
 botmblurb: Penny Briggs is a perfectly ordinary woman. Until her life takes a left
@@ -44,10 +44,6 @@ COMPANION TO THE COUNT is an Adult historical romance complete at 60,000 words a
 
 I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4. My debut adult paranormal romance will be published with Wild Rose Press in 2023.
 
-Thank you for your consideration.
-
-Melissa Kendall
-
 ### Twitter pitches
 
 1860 London. A woman sees the face of her dead brother in the newest painting from a famous anonymous artist. To recover her family fortune, she must unmask the artist, even if the cost is her heart... or her life.
@@ -64,14 +60,12 @@ Falling in love was never part of the plan.
 
 ### Querying stats
 
-Here are the final querying stats for Companion to the Count. I also want to recognize all the ways I am privileged. I am white, cisgender, young, without children, etc.
+Without context, these stats appear amazing. However, remember that I wrote 4 other books and queried them for 5 years before getting an agent.
 
 * Total queries: 14
 * Rejections:
   * Full->R&R->Rejection: 1
   * Form: 7
-  * Personalized: 1
+  * Personalized: 3
   * CNR: 1
 * Offers: 1
-
-<!-- @TODO: Add Courney, Julie, Meg to these stats -->
