@@ -4,7 +4,21 @@ layout: page
 permalink: /writing
 ---
 
-This page contains a list of my publishing credits.
-
-* Marked for Harvest, published by Wild Rose Press. Coming 11.30.2022.
-* "Feast": horror short story, published in [Sanitarium Magazine](https://www.thesanitarium.co.uk/) in [August, 2021](https://www.amazon.ca/dp/B09D9WC4CQ).
+<table style="text-align:center">
+    <tr>
+        <td> 
+            Feast in Sanitarium Magazine
+        </td>
+        <td>
+            Marked for Harvest, coming 11.30.2022
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.amazon.ca/dp/B09D9WC4CQ"><img src='/images/Feast.jpg'/></a> 
+        </td>   
+        <td>
+            <img src='/images/MFH_Placeholder.png' width='500'/> 
+        </td>
+    </tr>
+</table>
