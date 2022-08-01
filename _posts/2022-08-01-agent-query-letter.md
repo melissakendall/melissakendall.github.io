@@ -5,22 +5,9 @@ excerpt: The query letter that got me an agent.
 date: 2022-08-01T11:39:00.000-06:00
 thumb_img_path: "/dsc06612.JPG"
 content_img_path: "/dsc06612.JPG"
-botmblurb: Penny Briggs is a perfectly ordinary woman. Until her life takes a left
-  turn at Albuquerque…<br>I thought my marriage would be a fairy tale. Instead, I’ve
-  put a thousand miles between me and my broken dream, starting over with temp job
-  in Albuquerque. Prop shopping for a TV production takes my mind off my troubles
-  — until I buy an old pair of glasses no one on the set can wear.<br>Curious, I look
-  through the lenses myself — and they show me a wild vision of a lonely desert canyon
-  I’ve never seen before.<br>A friend directs me and my weird glasses to her cousin,
-  a brujo — a male witch — who specializes in weird. He’s also the most spectacularly
-  handsome man I’ve ever seen, with black hair, dark eyes, and a flashing smile so
-  dazzling, I almost miss his casual remark that my magic is powerful.<br>Magic? What
-  magic? I’m just an ordinary woman from an ordinary family.<br>Yet as the two of
-  us explore the mystery surrounding those supernatural glasses — and give in to our
-  growing attraction — I discover a past I knew nothing about. And that there’s a
-  dangerous reason it’s been hidden from me all these years….
-amazonurl: https://www.amazon.ca/Found-Objects-Paranormal-Fantasy-Unexpected-ebook/dp/B09PQB2FZM/
-botm: "/51haan6rafl.jpg"
+botmblurb: Over forty titillating stories from USA Today best-selling and award-winning romance authors in a spicy Friends to Lovers collection curated by The New Romance Cafe, with ALL proceeds going to the Breast Cancer Research Foundation.
+amazonurl: https://www.amazon.ca/Its-Always-Been-You-Collection-ebook/dp/B09RWR527R/
+botm: "/51GhUBsr3bL.jpg"
 
 ---
 
@@ -42,7 +29,11 @@ Sparks fly when a carriage accident throws Saffron and Leo together on the eve o
 
 COMPANION TO THE COUNT is an Adult historical romance complete at 60,000 words and will appeal to fans of Emily Sullivan's *A Rogue to Remember* and Bethany Bennett's *Any Rogue Will Do*.
 
-I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4. My debut adult paranormal romance will be published with Wild Rose Press in 2023.
+I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4. My debut adult paranormal romance will be published with Wild Rose Press in 2022.
+
+Thank you for your time and consideration,
+
+Melissa Kendall
 
 ### Twitter pitches
 
