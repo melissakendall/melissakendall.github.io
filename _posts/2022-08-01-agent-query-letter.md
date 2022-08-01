@@ -2,7 +2,7 @@
 layout: post
 title: Historical romance query letter
 excerpt: The query letter that got me an agent.
-date: 2022-08-01T11:39:00.000-06:00
+date: 2022-08-01T11:30:00.000-06:00
 thumb_img_path: "/dsc06612.JPG"
 content_img_path: "/dsc06612.JPG"
 botmblurb: Over forty titillating stories from USA Today best-selling and award-winning romance authors in a spicy Friends to Lovers collection curated by The New Romance Cafe, with ALL proceeds going to the Breast Cancer Research Foundation.
