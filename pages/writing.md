@@ -18,7 +18,18 @@ permalink: /writing
             <a href="https://www.amazon.ca/dp/B09D9WC4CQ"><img src='/images/Feast.jpg'/></a> 
         </td>   
         <td>
-            <img src='/images/MFH_Placeholder.png' width='500'/> 
+            <img src='/images/MFH_Placeholder.png'/> 
         </td>
+    </tr>
+    <tr>
+        <td>
+            Cat Cafe in Love and Other Kerfuffles
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://books2read.com/TNRCKerfluffy"><img src='/images/TNRC.jpg'/></a></td>
+        <td></td>
     </tr>
 </table>
