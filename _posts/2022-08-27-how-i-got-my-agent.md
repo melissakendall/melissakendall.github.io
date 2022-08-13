@@ -2,7 +2,7 @@
 layout: post
 title: 'How I got my agent'
 excerpt: The story of how I got my agent.
-date: 2022-07-29 00:00:00 -0600
+date: 2022-08-27T11:30:00.000-06:00
 thumb_img_path: "/dsc06591.JPG"
 content_img_path: "/dsc06591.JPG"
 botmblurb: When a remote mountain village is attacked, it sets off a chain reaction
@@ -21,7 +21,7 @@ amazonurl: https://www.amazon.ca/Girl-Ash-Snow-C-M-Quinn-ebook/dp/B09KQM2LDX/
 botm: "/59548869-_sy475_.jpg"
 ---
 
-This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count. Next month I'll share the query letter, Twitter pitches, and querying stats for Companion to the Count.
+This is the story of how I got my literary agent for my adult historical romance novel, Companion to the Count.
 
 This is a long story, so I've tried to break it up with GIFs and headings.
 
@@ -47,7 +47,7 @@ I was ready for my very first book to go out to agents.
 
 *Note: I was not ready.*
 
-I sent my first query for Marked for Harvest in January, 2019. That agent responded with a very kind rejection that encouraged me to keep going. Many more rejections followed. Around this time I also queried half a dozen agents and received 1 full request, which later turned into a kind rejection.
+I sent my first query for Marked for Harvest in January, 2019. That agent responded with a very kind rejection that encouraged me to keep going. Many more rejections followed.
 
 "You can't expect your first book to be a success," I told myself. "Write another one. This time it'll be better."
 
@@ -55,27 +55,23 @@ I sent my first query for Marked for Harvest in January, 2019. That agent respon
 
 ### Write, write, write!
 
-It took me a few months of writing my second book to realize that the plot wasn't working, and I shelved it. Around this time, I wanted to try something different, writing in first person. I planned, outlined, and wrote a young adult mystery called The Problem of Thor High, based on the Sherlock Holmes story The Problem of Thor Bridge.
+It took me a few months of writing my second book, a sequel to MARKED, to realize that the plot wasn't working, and I shelved it.
+
+Around this time, I wanted to try something different, writing in first person. I planned, outlined, and wrote a young adult mystery called The Problem of Thor High, based on the Sherlock Holmes story The Problem of Thor Bridge.
 
 It was a fun experiment, but I knew I didn't want to be a YA author. I wanted to write books for adults, the books I loved to read.
 
-So I shelved The Problem of Thor Bridge in January, 2020.
+Two books shelved, but I kept going.
 
 ![A GIF of David Tenant as Doctor Who standing in the rain](https://media.giphy.com/media/Jq7y34Hgfy01y/giphy.gif)
-
-### The Bad Time
-
-Yeah.
-
-Let's just skip this part.
 
 ### Writing the story of my heart
 
 Honesty time.
 
-The moment I started writing creatively, I knew I wanted to write a historical romance set in 1800s London. I had read so many of them growing up, but I was intimidated by the research required. I told myself I'll write a few other books first. By summer 2020, I knew it was time. I did hours of painstaking research, even creating a [dress generator](/dress-generator) by scraping real museum records.
+I've always wanted to write a historical romance set in 1800s London, but I was intimidated by the research required.
 
-That summer and fall was filled with writing, revising, and many more rejections.
+When the pandemic hit, I knew it was time. I did hours of painstaking research and created a [dress generator](/dress-generator) by scraping real museum records.
 
 ![A GIF of Kermit typing on a typewriter](https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif)
 
@@ -83,19 +79,21 @@ That summer and fall was filled with writing, revising, and many more rejections
 
 In August, 2020, I accepted a new job, and my writing was put to the side. Instead, I formed a group of creative writers at work called Writerly Room. This group has grown to 120+ writers as of 2022, and they are my biggest source of inspiration and pride.
 
-When I finally got back to writing, I decided to try something new. I'd only ever written short books, but my next book would be long. While deciding what to write, I watched a show called Truth Seekers, and was floored by what a missed opportunity it seemed (to me). That gave me the idea for Soulbound, an adult Sci-Fi with a found family alien dynamic.
+When I finally got back to writing, I decided to try something new. I'd only ever written short books, but my next book would be long. While deciding what to write, I watched a show called Truth Seekers. It inspired me to write Soulbound, an adult Sci-Fi with a found family dynamic.
 
 I love that book so much, but it got a 100% form rejection rate from agents. It too, was shelved.
 
 ![A GIF of Pikachu crying](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
 
-*Note: Yes, I give up way too easily!*
+Yes, I give up too easily. I believe part of it is ADHD/ASD rejection sensitivity.
 
 ### My first acceptance
 
-In spring, 2021, I took a break from writing novels to write some short stories. Learning how to submit to magazines was exciting and different, especially when *the very first one I sent was accepted*. All my lost motivation came rushing back. I could do this!
+In spring, 2021, I took a break from writing and querying novels to write some short stories. Learning how to submit to magazines was exciting and different, especially when *my very first submission was accepted*. 
 
-Feast was published in [Sanitarium Magazine](https://www.amazon.com/Sanitarium-Magazine-Issue/dp/B09CKYSY7N).
+All my lost motivation came rushing back. I could do this!
+
+Feast was published in [Sanitarium Magazine](https://www.amazon.com/Sanitarium-Magazine-Issue/dp/B09CKYSY7N) in August, 2021.
 
 ![A GIF of green parrots dancing](https://media.giphy.com/media/ZUomWFktUWpFu/giphy-downsized-large.gif)
 
@@ -128,8 +126,6 @@ I couldn't believe it. Things were happening that I had only dreamed of.
 June 1st, 2022. I logged into twitter to see a new event called [canlitpit](https://digiwriting.com/canlitpit/) for Canadian writers. I shrugged and sent out my standard tweets for Companion to the Count.
 
 Two agents liked my tweet. TWO!
-
-Not only that, but one of the agents was someone I'd secretly admired from afar for years ever since they were a mentor for Pitch Wars. I was giddy with excitement, and sent off the queries.
 
 I got a full request within *17 minutes*.
 
