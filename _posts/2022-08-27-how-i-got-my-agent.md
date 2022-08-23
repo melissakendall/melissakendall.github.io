@@ -2,7 +2,7 @@
 layout: post
 title: 'How I got my agent'
 excerpt: The story of how I got my agent.
-date: 2022-08-27T11:30:00.000-06:00
+date: 2022-08-23T11:30:00.000-06:00
 thumb_img_path: "/dsc06591.JPG"
 content_img_path: "/dsc06591.JPG"
 botmblurb: When a remote mountain village is attacked, it sets off a chain reaction
