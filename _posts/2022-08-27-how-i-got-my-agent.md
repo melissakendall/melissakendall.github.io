@@ -139,7 +139,9 @@ I woke up on June 14th to the email that stole the breath from my lungs. A CALL.
 
 It was happening. Really happening. After 4 years, 5 books, and 8 short stories, an agent wanted to talk to me!
 
-I barely remember that call. I wanted to scream YES! YES! YES! But I had to let all the other agents who had my query know, first. The 2 weeks that followed were both exciting and painfully slow. I continued working with my editor at Wild Rose Press on my debut, and forced myself not to tweet anything vague.
+I barely remember that call. It was 20% me babbling and 80% furiously writing everything down because I was certain it was an R&R call until the last 5 minutes. When I realized it was an actual offer, I had no idea what to say. I'd prepared for it, yes, but all the words went POOF. I'm just glad I didn't embarass myself.
+
+The 2 weeks that followed were both exciting and painfully slow. I continued working with my editor at Wild Rose Press on my debut, and forced myself not to tweet anything vague.
 
 July 2nd, 2022. My deadline for all the other agents expired, and I gleefully told Lane that I would LOVE to be her client!
 
