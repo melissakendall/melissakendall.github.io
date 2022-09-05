@@ -14,6 +14,7 @@ header:
   tagline: Romance author
   profile_img: images/Avatar.jpg
   header_img: images/cover-reveal-header.png
+  header_url: https://books2read.com/MarkedForHarvest
   bg: dark
   has_nav: true
   has_social: true
