@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: On this page you will find some examples of the work I've done.
+subtitle:
 layout: page
 permalink: /Projects
 ---
