@@ -4,7 +4,9 @@ main:
   url: /Contact
 - title: About
   url: /About
-- title: Writing
+- title: Manuscripts
+  url: /manuscripts
+- title: Publications
   url: /writing
 - title: Projects
   url: /Projects

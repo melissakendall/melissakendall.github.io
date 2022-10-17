@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Publications
 layout: page
 permalink: /writing
 ---
