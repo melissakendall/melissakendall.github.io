@@ -4,15 +4,12 @@ layout: body
 
 <a rel="me" style="display:none" href="https://writing.exchange/@makendallauthor">Mastodon</a>
 
-<a href="{{site.header.header_url}}"><img src="{{ site.header.header_img | relative_url }}" class="header" alt="Author Avatar" /></a>
-
 <h2>Blog posts</h2>
 
 <hr>
 
 <div class="post-feed">
-  {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
-  {% for post in display_posts %}
+  {% for post in site.posts %}
   <article class="post">
     <div class="post-inside">
       {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}

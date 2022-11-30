@@ -1,12 +1,18 @@
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+gem "minima", "~> 2.0"
 
-gem "jekyll", "~> 3.8.4"
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
-    gem "jekyll-menus", "~> 0.6.0"
-    gem "jekyll-paginate-v2", "~> 1.9"
-    gem "jekyll-paginate", "~> 1.1"
-    gem 'jekyll-twitter-plugin'
+  gem "jekyll-feed", "~> 0.6"
 end
+
+install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
+gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
+gem "kramdown-parser-gfm"
+gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]

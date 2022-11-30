@@ -18,12 +18,17 @@ header:
   bg: dark
   has_nav: true
   has_social: true
+menus:
+- title: About
+  url: /About
+- title: Manuscripts
+  url: /manuscripts
+- title: Publications
+  url: /writing
+- title: Projects
+  url: /Projects
 footer:
   content: '&copy; All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
 sass:
   indentWidth: 4
   style: nested
