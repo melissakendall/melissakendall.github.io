@@ -7,7 +7,7 @@ permalink: /writing
 <table style="text-align:center">
     <tr>
         <td>
-            <a href="https://books2read.com/MarkedForHarvest">Marked for Harvest</a> (11.30.2022)
+            <a href="https://books2read.com/MarkedForHarvest">Marked for Harvest</a>
         </td>
     </tr>
     <tr> 
