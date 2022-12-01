@@ -21,10 +21,12 @@ header:
 menus:
 - title: About
   url: /About
-- title: Manuscripts
-  url: /manuscripts
-- title: Publications
+- title: Books
   url: /writing
+- title: Manuscripts
+  url: /manuscripts  
+- title: Content warnings
+  url: /cw
 - title: Projects
   url: /Projects
 footer:
