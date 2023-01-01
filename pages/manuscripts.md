@@ -7,6 +7,7 @@ permalink: /manuscripts
 ## Companion to the Count
 
 Status: On submission
+
 Adult historical romance
 
 ![Moodboard](/images/cttc-moodboard.png)
@@ -29,8 +30,9 @@ Sparks fly when a carriage accident throws Saffron and Leo together on the eve o
 
 ## Escape from Wolfpoint
 
-Status: Drafting
-Adult paranormal
+Status: Complete
+
+Paranormal suspense
 
 ![Moodboard](/images/wolfpoint-moodboard.png)
 
@@ -41,6 +43,7 @@ The dead arrive by float plane every Saturday at noon... unless the werewolves g
 ## Mentor to the Marquess
 
 Status: Outlined
+
 Adult historical romance
 
 ### Pitch
@@ -50,6 +53,7 @@ A marquess accidentally asks the most disreputable woman in London to sponsor hi
 ## Soulbound
 
 Status: Complete
+
 Adult Sci-Fi
 
 ### Pitch
@@ -67,4 +71,3 @@ Exxo struggles to keep up with the rising price of Gel, until a client referral 
 The Mossoi are back.
 
 Determined to make up for her war-time mistakes, Exxo smuggles the bot out of Pleasant Hills. Together, they risk their lives to discover the truth behind the Mossoi war and along the way learn the horrifying truth of what Gel really is.
-
