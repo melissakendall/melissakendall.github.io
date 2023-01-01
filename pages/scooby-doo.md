@@ -1,7 +1,7 @@
 ---
 title: Scooby Doo Movie Reviews
 layout: page
-permalink: /Scooby-Doo
+permalink: /scooby-doo
 ---
 
 | Movie | Rating | Notes |
