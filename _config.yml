@@ -29,6 +29,8 @@ menus:
   url: /cw
 - title: Projects
   url: /Projects
+- title: Media kits
+  url: /media-kits
 footer:
   content: '&copy; All rights reserved.'
 sass:
