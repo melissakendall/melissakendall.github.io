@@ -16,7 +16,7 @@ Adult historical romance
 
 1860 London. A woman sees the face of her dead brother in the newest painting from a famous anonymous artist. To recover her family fortune, she must unmask the artist, even if the cost is her heart, or her life.
 
-### Query
+### Blurb
 
 London, 1860. Saffron Summersby lost everything when her brother disappeared; her dresses, her dowry, her place in society. So when she sees her brother's face in the latest painting from famous anonymous artist Ravenmore, she comes up with a plan—learn the identity of the painter, find her brother, and restore her family to its former glory.
 
@@ -32,7 +32,7 @@ Sparks fly when a carriage accident throws Saffron and Leo together on the eve o
 
 Status: Complete
 
-Paranormal suspense
+YA paranormal suspense
 
 ![Moodboard](/images/wolfpoint-moodboard.png)
 
@@ -50,6 +50,16 @@ Adult historical romance
 
 A marquess accidentally asks the most disreputable woman in London to sponsor his beloved wards debut and is shocked when she accepts.
 
+## Benefactor to the Baroness
+
+Status: Outlined
+
+Adult historical romance
+
+### Pitch
+
+Two spinsters fall in love while transporting orphans to Canada.
+
 ## Soulbound
 
 Status: Complete
@@ -60,7 +70,7 @@ Adult Sci-Fi
 
 An exterminator encounters a pest that begs for its life.
 
-### Query
+### Blurb
 
 Exxo once slaughtered thousands of the crab-like Mossoi in battlefields across the galaxy. Now, her only battles involve capturing mechanical pests that infest her clients' homes.
 
