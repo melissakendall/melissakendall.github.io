@@ -12,5 +12,4 @@ This page provides links to media kits for my published works:
 
 ### Articles
 
-* Regina Leader Post: [Ghostwriter: Melissa Kendall had a novel idea for her first book
-](https://leaderpost.com/entertainment/ghostwriter-melissa-kendall-had-a-novel-idea-for-her-first-book)
+* Regina Leader Post: [Ghostwriter: Melissa Kendall had a novel idea for her first book](https://leaderpost.com/entertainment/ghostwriter-melissa-kendall-had-a-novel-idea-for-her-first-book)
