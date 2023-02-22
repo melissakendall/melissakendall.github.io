@@ -33,6 +33,17 @@ permalink: /writing
             <a href="https://www.amazon.ca/dp/B09D9WC4CQ"><img width="620" src='/images/Feast.jpg'/></a> 
         </td>   
         <td><a href="https://books2read.com/TNRCKerfluffy"><img width="600" src='/images/TNRC.jpg'/></a></td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L">Second Best Thing in Second Time's a Charm</a>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L"><img width="620" src='/images/STAC.jpg'/></a> 
+        </td>   
         <td></td>
     </tr>
 </table>
