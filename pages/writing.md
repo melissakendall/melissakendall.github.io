@@ -12,21 +12,14 @@ Steamy Victorian romance mystery series.
 
 <table style="text-align:center">
     <tr>
-        <td>Companion to the Count</td>
-        <td>Mentor to the Marquess</td>
-        <td>Benefactor to the Baroness</td>
+        <td><a href="https://www.goodreads.com/book/show/131107507-companion-to-the-count">Companion to the Count</a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess">Mentor to the Marquess</a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness">Benefactor to the Baroness</a></td>
     </tr>
-    <!--
     <tr>
-        <td><a href="https://www.goodreads.com/book/show/[TODO]">Companion to the Count</a></td>
-        <td><a href="https://www.goodreads.com/book/show/[TODO]">Mentor to the Marquess</a></td>
-        <td><a href="https://www.goodreads.com/book/show/[TODO]">Benefactor to the Baroness</a></td>
-    </tr>
-    -->  
-    <tr>
-        <td><img width="300" src='/images/cttc-moodboard.png'/></td>
-        <td><img width="300" src='/images/mttm-moodboard.png'/></td>
-        <td><img width="300" src='/images/bttb-moodboard.png'/></td>        
+        <td><a href="https://www.goodreads.com/book/show/131107507-companion-to-the-count"><img width="300" src='/images/cttc-moodboard.png'/></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/images/mttm-moodboard.png'/></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/bttb-moodboard.png'/></a></td>        
     </tr>     
     <tr>
         <td>Coming Aug, 2024</td>
