@@ -2,7 +2,7 @@
 layout: post-basic
 title: 'How to support local authors'
 excerpt: My book announcement and tips for supporting local authors.
-date: 2023-04-20T12:30:00.000-06:00
+date: 2023-05-04T12:30:00.000-06:00
 thumb_img_path: "/moodboard-announce.png"
 content_img_path: "/moodboard-announce.png"
 ---
