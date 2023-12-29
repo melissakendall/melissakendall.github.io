@@ -35,7 +35,7 @@ Thank you for your time and consideration,
 
 Melissa Kendall
 
-### Twitter pitches
+### Pitches
 
 1860 London. A woman sees the face of her dead brother in the newest painting from a famous anonymous artist. To recover her family fortune, she must unmask the artist, even if the cost is her heart... or her life.
 

@@ -1,12 +1,6 @@
 {
     "links": [
         {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/MAKendallAuthor"
-        },
-        {
             "type": "instagram",
             "title": "Instagram",
             "icon": "fa-instagram",

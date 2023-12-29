@@ -41,7 +41,7 @@ The next several months were a chaotic mess of jumping around discord writing gr
 
 ### Diving in
 
-After working with critique partners for months, I finally decided it was time. I'd watched dozens of YouTube videos on querying. I'd read every article on [Query Shark's website](https://queryshark.blogspot.com/). I'd made a query letter, synopsis, twitter pitches, and more.
+After working with critique partners for months, I finally decided it was time. I'd watched dozens of YouTube videos on querying. I'd read every article on [Query Shark's website](https://queryshark.blogspot.com/). I'd made a query letter, synopsis, pitches, and more.
 
 I was ready for my very first book to go out to agents.
 
@@ -99,7 +99,7 @@ Feast was published in [Sanitarium Magazine](https://www.amazon.com/Sanitarium-M
 
 ### Failed R&R
 
-In August, 2021, I received an unexpected R&R for Marked for Harvest from an editor! I was so excited. I immediately contracted with a developmental editor I had found on twitter.
+In August, 2021, I received an unexpected R&R for Marked for Harvest from an editor! I was so excited. I immediately contracted with a developmental editor.
 
 *Yes. I paid for a developmental edit.*
 
@@ -123,7 +123,7 @@ I couldn't believe it. Things were happening that I had only dreamed of.
 
 ### CanLitPit
 
-June 1st, 2022. I logged into twitter to see a new event called [canlitpit](https://digiwriting.com/canlitpit/) for Canadian writers. I shrugged and sent out my standard tweets for Companion to the Count.
+June 1st, 2022. I saw an event called [canlitpit](https://digiwriting.com/canlitpit/) for Canadian writers. I shrugged and sent out my standard tweets for Companion to the Count.
 
 Two agents liked my tweet. TWO!
 

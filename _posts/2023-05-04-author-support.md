@@ -26,7 +26,7 @@ Today's blog includes a list of things you can do to support an author that are 
 * Post about their book on social media
 * Sign up for their newsletter
 * Follow them on Instagram
-* Follow them on Twitter
+* Follow them on Threads
 * Follow them on TikTok
 * Tell your friends you liked their book
 * Like/comment/share their social media posts

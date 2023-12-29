@@ -33,7 +33,7 @@ My top viewed video as of Feb, 2023 is a 5 second video of my cat that took less
 
 ### Trick #2 - Get to 1000 followers fast
 
-A big difference between TikTok and Twitter or Instagram is that "unfollowing" is, in my experience, much more rare. I've never unfollowed anyone. If I don't like the videos that someone I am following creates, I quickly swipe past them and (somehow? maybe?) the algorithm learns not to show me those videos.
+A big difference between TikTok and Instagram is that "unfollowing" is, in my experience, much more rare. I've never unfollowed anyone. If I don't like the videos that someone I am following creates, I quickly swipe past them and (somehow? maybe?) the algorithm learns not to show me those videos.
 
 Once you reach 1000 followers, you can include a link on your page, so 1000 followers should be your short term goal.
 

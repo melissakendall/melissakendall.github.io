@@ -41,7 +41,7 @@ MARKED FOR HARVEST is a standalone paranormal romance complete at 55,000 words w
 
 I am a technical writer with a passion for public speaking living in the heart of the Canadian prairies with my two cats, Ella and Portage. My short story, Feast, was published in Sanitarium Magazine, Issue #4.
 
-### Twitter pitches
+### Pitches
 
 GHOST WHISPERER X THE GIRL WITH THE DRAGON TATTOO A medium who wears the dead on her skin returns to her childhood home to find a woman floating face down in her pool. The police call it an accident. The tattoo on her chest says otherwise.
 
