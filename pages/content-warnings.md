@@ -4,19 +4,52 @@ layout: page
 permalink: /cw
 ---
 
-This page includes content warnings for my published works.
+This page includes content warnings for my published works. If I am missing content warnings for any books,
+please let me know through social media (MAKendallAuthor@) and I will update this page as soon as possible.
 
 ### Companion to the Count
 
-Coming soon
+* ableism
+* alcohol use
+* blood (minor)
+* bodies/corpses
+* death/dying
+* death of a loved one
+* domestic abuse (references)
+* explicit sex
+* graphic description of corpse
+* guns
+* kidnapping
+* panic attacks
+* physical abuse
+* murder
+* nightmares about traumatic events
+* swearing
+* graphic violence
+* weapons
 
 ### Mentor to the Marquess
 
-Coming soon
+* alcohol use
+* domestic abuse
+* emotional abuse
+* explicit sex
+* infertility
+* kidnapping
+* nightmares about traumatic events
+* physical abuse
+* sexual assault/abuse (references)
 
 ### Benefactor to the Baroness
 
-Coming soon
+* alcohol use
+* biphobia
+* explicit sex
+* homophobia
+* human trafficing
+* physical abuse
+* threatening violence against children
+* violence against children
 
 ### Marked for Harvest
 
