@@ -3,8 +3,8 @@ layout: post-basic
 title: 'How to support local authors'
 excerpt: My book announcement and tips for supporting local authors.
 date: 2023-05-04T12:30:00.000-06:00
-thumb_img_path: "/moodboard-announce.png"
-content_img_path: "/moodboard-announce.png"
+thumb_img_path: "/announce.jpg"
+content_img_path: "/announce.jpg"
 ---
 
 I am excited to share, if you have not already heard, that three of my books will be published by Dragonblade press!

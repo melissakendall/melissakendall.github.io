@@ -18,8 +18,8 @@ Steamy Victorian romance mystery series.
     </tr>
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src='/images/CTTC.jpg'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/images/mttm-moodboard.png'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/bttb-moodboard.png'/></a></td>        
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/uploads/mttm-moodboard.png'/></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/uploads/bttb-moodboard.png'/></a></td>        
     </tr>     
     <tr>
         <td>Coming Aug, 2024</td>
