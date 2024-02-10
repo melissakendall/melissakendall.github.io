@@ -23,6 +23,8 @@ menus:
   url: /About
 - title: Books
   url: /writing
+- title: Manuscripts
+  url: /manuscripts
 - title: Content warnings
   url: /cw
 - title: Projects
