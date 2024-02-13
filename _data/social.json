@@ -11,6 +11,18 @@
             "title": "Facebook",
             "icon": "fa-facebook",
             "url": "https://www.facebook.com/MAKendallAuthor"
+        },
+        {
+            "type": "threads",
+            "title": "Threads",
+            "icon": "fa-threads",
+            "url": "https://www.threads.net/@makendallauthor"
+        },
+        {
+            "type": "tiktok",
+            "title": "TikTok",
+            "icon": "fa-tiktok",
+            "url": "https://tiktok.com/@makendallauthor"
         } 
     ]
 }

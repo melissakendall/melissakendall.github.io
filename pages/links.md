@@ -4,6 +4,17 @@ layout: page
 permalink: /links
 ---
 
+<div class="social-links">
+  {% for link in site.data.social.links %}
+  {% assign link_is_not_empty = link | is_not_empty %}
+  {% if link_is_not_empty %}
+  <a href="{{ link.url }}" target="_blank" rel="noopener"><span class="fab {{ link.icon }}" aria-hidden="true"></span><span class="screen-reader-text">{{ link.title }}</span></a>
+  {% endif %}
+  {% endfor %}
+</div><!-- .social-links -->
+
+<hr/>
+
 ### Seductive Sleuths
 
 <table style="text-align: center;">
@@ -50,15 +61,3 @@ permalink: /links
         </td>
     </tr>
 </table>
-
-
-### Socials
-
-<div class="social-links">
-  {% for link in site.data.social.links %}
-  {% assign link_is_not_empty = link | is_not_empty %}
-  {% if link_is_not_empty %}
-  <a href="{{ link.url }}" target="_blank" rel="noopener"><span class="fab {{ link.icon }}" aria-hidden="true"></span><span class="screen-reader-text">{{ link.title }}</span></a>
-  {% endif %}
-  {% endfor %}
-</div><!-- .social-links -->
