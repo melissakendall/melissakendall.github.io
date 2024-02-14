@@ -8,7 +8,7 @@ This page provides links to media kits for my published works:
 
 ## Seductive Sleuths Series
 
-Coming soon
+* [Media Kit (Google Drive)](https://drive.google.com/drive/folders/1rI4PKNtx0dSm1_Vvu6rfTUHOdR6U9nw2?usp=drive_link)
 
 ## Marked for Harvest
 
