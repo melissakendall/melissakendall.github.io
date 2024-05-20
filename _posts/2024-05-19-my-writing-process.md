@@ -69,4 +69,4 @@ To turn off my inner editor, I do the following:
 
 I don't stop writing, even if I have a stray thought.
 
-Using these techniques, I write 2k words per day before I start work on weekdays, and 4-5k words on weekdays.
+Using these techniques, I write 2k words per day before I start work on weekdays, and 4-5k words on weekends.
