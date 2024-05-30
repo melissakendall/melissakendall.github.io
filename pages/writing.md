@@ -18,13 +18,13 @@ Steamy Victorian romance mystery series.
     </tr>
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src='/images/CTTC.jpg'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/uploads/mttm-moodboard.png'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/uploads/bttb-moodboard.png'/></a></td>        
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/images/MTTM.jpg'/></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/BTTB.jpg'/></a></td>        
     </tr>     
     <tr>
-        <td>Coming Aug, 2024</td>
-        <td>Coming Nov, 2024</td>
-        <td>Coming Feb, 2025</td>
+        <td>Coming Aug 16, 2024</td>
+        <td>Coming Nov 24, 2024</td>
+        <td>Coming Feb 18, 2025</td>
     </tr>       
 </table>
 
@@ -44,6 +44,8 @@ Steamy Victorian romance mystery series.
 </table>
 
 ## Short Stories
+
+Some of these short stories have been unpublished and are no longer available.
 
 <table style="text-align:center">
     <tr>
