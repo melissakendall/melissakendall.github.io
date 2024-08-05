@@ -24,7 +24,7 @@ permalink: /links
         <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/uploads/bttb-moodboard.png" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://books2read.com/u/mlpO5A">Pre-order</a><br/></td>
+        <td><a href="https://www.netgalley.com/catalog/book/449283">Request on NetGallery</a><br><a href="https://books2read.com/u/mlpO5A">Pre-order</a><br/></td>
         <td>Pre-order coming soon!</td>
         <td>Pre-order coming soon!</td>
     </tr>
