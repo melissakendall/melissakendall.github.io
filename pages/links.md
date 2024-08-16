@@ -20,11 +20,11 @@ permalink: /links
 <table style="text-align: center;">
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src="/images/CTTC.jpg" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/uploads/mttm-moodboard.png" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/uploads/bttb-moodboard.png" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/images/MTTM.jpg" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/images/BTTB.jpg" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://www.netgalley.com/catalog/book/449283">Request on NetGallery</a><br><a href="https://books2read.com/u/mlpO5A">Pre-order</a><br/></td>
+        <td><a href="https://books2read.com/u/mlpO5A">Buy</a><br/></td>
         <td>Pre-order coming soon!</td>
         <td>Pre-order coming soon!</td>
     </tr>

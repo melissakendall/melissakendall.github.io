@@ -22,7 +22,7 @@ Steamy Victorian romance mystery series.
         <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/BTTB.jpg'/></a></td>        
     </tr>     
     <tr>
-        <td>Coming Aug 16, 2024</td>
+        <td><a href="https://books2read.com/u/mlpO5A">Available now!</a></td>
         <td>Coming Nov 24, 2024</td>
         <td>Coming Feb 18, 2025</td>
     </tr>       
