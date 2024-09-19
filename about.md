@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Romance author
-img_path: images/portrait.jpg
+img_path: images/portrait-2.JPG
 layout: page
 permalink: /About
 ---

@@ -28,6 +28,21 @@ Steamy Victorian romance mystery series.
     </tr>       
 </table>
 
+## Fated Vampire Mates
+
+<table style="text-align:center">
+    <tr>
+        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">The Vampire's Guide to Wooing a Dressmaker</a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">The Vampire's Guide to Wooing a Scholar</a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">The Vampire's Guide to Wooing a Curator</a></td>
+    </tr>   
+    <tr>
+        <td>Coming Nov 15, 2025</td>
+        <td>Coming Feb 21, 2026</td>
+        <td>Coming May 15, 2026</td>
+    </tr>       
+</table>
+
 ## Standalone novels
 
 <table style="text-align:center">

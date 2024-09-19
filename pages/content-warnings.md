@@ -51,6 +51,19 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 * threatening violence against children
 * violence against children
 
+
+### The Vampire's Guide to Wooing a Dressmaker
+
+Coming soon
+
+### The Vampire's Guide to Wooing a Scholar
+
+Coming soon
+
+### The Vampire's Guide to Wooing a Curator
+
+Coming soon
+
 ### Marked for Harvest
 
 * ableism

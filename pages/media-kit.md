@@ -10,6 +10,10 @@ This page provides links to media kits for my published works:
 
 * [Media Kit (Google Drive)](https://drive.google.com/drive/folders/1rI4PKNtx0dSm1_Vvu6rfTUHOdR6U9nw2?usp=drive_link)
 
+## Fated Vampire Mates
+
+Coming soon
+
 ## Marked for Harvest
 
 * [Media Kit (Google Drive)](https://drive.google.com/drive/folders/1Y3TcdUZ7ZKfk55SYaHs07I_xWn6apHTU?usp=sharing)
