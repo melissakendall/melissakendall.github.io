@@ -13,12 +13,12 @@ Steamy Victorian romance mystery series.
 <table style="text-align:center">
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Companion to the Count</a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess">Mentor to the Marquess</a></td>
+        <td><a href="https://books2read.com/u/3yXMjV">Mentor to the Marquess</a></td>
         <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness">Benefactor to the Baroness</a></td>
     </tr>
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src='/images/CTTC.jpg'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src='/images/MTTM.jpg'/></a></td>
+        <td><a href="https://books2read.com/u/3yXMjV"><img width="300" src='/images/MTTM.jpg'/></a></td>
         <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/BTTB.jpg'/></a></td>        
     </tr>     
     <tr>
