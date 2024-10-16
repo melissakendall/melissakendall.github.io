@@ -81,11 +81,13 @@ Some of these short stories have been unpublished and are no longer available.
         <td> 
             <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L">Second Best Thing in Second Time's a Charm</a>
         </td>
-        <td></td>
+        <td>
+            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58">The Worst Possible Thing in Romancing the Rake</a>
+        </td>
     </tr>
     <tr>
         <td>
-            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L"><img width="620" src='/images/STAC.jpg'/></a> 
+            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58"><img width="620" src='/images/RR.jpg'/></a> 
         </td>   
         <td></td>
     </tr>

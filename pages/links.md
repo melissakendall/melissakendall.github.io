@@ -65,7 +65,7 @@ permalink: /links
             <a href="https://books2read.com/MarkedForHarvest"><img width="300" src="/images/MFH.jpg" /></a>
         </td>
         <td>
-            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L"><img width="300" src="/images/STAC.jpg" /></a>
+            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58"><img width="300" src="/images/RR.jpg" /></a>
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ permalink: /links
             <a href="https://books2read.com/MarkedForHarvest">Buy</a>
         </td>
         <td>
-            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L">Read on Kindle Unlimited</a>
+            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58">Pre-order</a>
         </td>
     </tr>
 </table>
