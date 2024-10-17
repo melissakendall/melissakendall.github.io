@@ -23,7 +23,7 @@ Steamy Victorian romance mystery series.
     </tr>     
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Available now!</a></td>
-        <td>Coming Nov 24, 2024</td>
+        <td>Coming Nov 19, 2024<br/><a href="https://www.netgalley.com/catalog/book/489185">Request on NetGallery</a></td>
         <td>Coming Feb 18, 2025</td>
     </tr>       
 </table>
@@ -67,19 +67,17 @@ Some of these short stories have been unpublished and are no longer available.
         <td> 
             <a href="https://www.amazon.ca/dp/B09D9WC4CQ">Feast in Sanitarium Magazine</a>
         </td>
-        <td>
-            <a href="https://books2read.com/TNRCKerfluffy">Cat Cafe in Love and Other Kerfuffles</a>
-        </td>
+        <td>Cat Cafe in Love and Other Kerfuffles</td>
     </tr>
     <tr>
         <td>
             <a href="https://www.amazon.ca/dp/B09D9WC4CQ"><img width="620" src='/images/Feast.jpg'/></a> 
         </td>   
-        <td><a href="https://books2read.com/TNRCKerfluffy"><img width="600" src='/images/TNRC.jpg'/></a></td>
+        <td><img width="600" src='/images/TNRC.jpg'/></td>
     </tr>
     <tr>
         <td> 
-            <a href="https://www.amazon.ca/dp/B0BWH3JY1K/ref=sr_1_1?crid=N68S6DT0CH5L">Second Best Thing in Second Time's a Charm</a>
+            Second Best Thing in Second Time's a Charm
         </td>
         <td>
             <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58">The Worst Possible Thing in Romancing the Rake</a>
@@ -87,8 +85,10 @@ Some of these short stories have been unpublished and are no longer available.
     </tr>
     <tr>
         <td>
+            <img width="620" src="/images/STAC.jpg" />
+        </td>
+        <td>
             <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58"><img width="620" src='/images/RR.jpg'/></a> 
         </td>   
-        <td></td>
     </tr>
 </table>
