@@ -30,15 +30,15 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 
 ### Mentor to the Marquess
 
-* alcohol use
-* domestic abuse
-* emotional abuse
-* explicit sex
-* infertility
-* kidnapping
-* nightmares about traumatic events
-* physical abuse
-* sexual assault/abuse (references)
+* Alcohol use: Casual alcohol drinking in several scenes. Several characters are intoxicated.
+* Domestic abuse: A character remembers and talks about abuse by ex-husband.
+* Emotional abuse: A character is gaslit by a suitor. A character remembers and discusses gaslighting techniques used by her ex-husband.
+* Explicit sex: Explicit on-page penetrative intercourse, anal fingering, spanking, BDSM, oral, restraints, blindfolds, nipple peircings with chains play.
+* Infertility: A character believes they are infertile due to past physical abuse.
+* Kidnapping: A character is kidnapped by a suitor.
+* Nightmares about traumatic events: A character has nightmares about abuse by ex-husband.
+* Physical abuse: A character is punched, a character is shot, a character remembers physical abuse by ex-husband.
+* Sexual assault/abuse (off-page): A character remembers and discusses past sexual assault by ex-husband.
 
 ### Benefactor to the Baroness
 
