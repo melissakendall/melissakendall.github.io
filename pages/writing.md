@@ -8,8 +8,6 @@ permalink: /writing
 
 Steamy Victorian romance mystery series.
 
-<!-- <img width="300" src='/images/[TODO].png'/> -->
-
 <table style="text-align:center">
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Companion to the Count</a></td>
@@ -23,7 +21,7 @@ Steamy Victorian romance mystery series.
     </tr>     
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Available now!</a></td>
-        <td>Coming Nov 19, 2024<br/><a href="https://www.netgalley.com/catalog/book/489185">Request on NetGallery</a></td>
+        <td><a href="https://books2read.com/u/3yXMjV">Available now!</a></td>
         <td>Coming Feb 18, 2025</td>
     </tr>       
 </table>
