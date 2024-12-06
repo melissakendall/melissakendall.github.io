@@ -12,17 +12,17 @@ Steamy Victorian romance mystery series.
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Companion to the Count</a></td>
         <td><a href="https://books2read.com/u/3yXMjV">Mentor to the Marquess</a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness">Benefactor to the Baroness</a></td>
+        <td><a href="https://books2read.com/u/b6qE8p">Benefactor to the Baroness</a></td>
     </tr>
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src='/images/CTTC.jpg'/></a></td>
         <td><a href="https://books2read.com/u/3yXMjV"><img width="300" src='/images/MTTM.jpg'/></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness"><img width="300" src='/images/BTTB.jpg'/></a></td>        
+        <td><a href="https://books2read.com/u/b6qE8p"><img width="300" src='/images/BTTB.jpg'/></a></td>        
     </tr>     
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Available now!</a></td>
         <td><a href="https://books2read.com/u/3yXMjV">Available now!</a></td>
-        <td>Coming Feb 18, 2025</td>
+        <td><a href="https://books2read.com/u/b6qE8p">Coming Feb 18, 2025</a></td>
     </tr>       
 </table>
 

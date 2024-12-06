@@ -21,12 +21,12 @@ permalink: /links
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src="/images/CTTC.jpg" /></a></td>
         <td><a href="https://books2read.com/u/3yXMjV"><img width="300" src="/images/MTTM.jpg" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/131812107-mentor-to-the-marquess"><img width="300" src="/images/BTTB.jpg" /></a></td>
+        <td><a href="https://books2read.com/u/b6qE8p"><img width="300" src="/images/BTTB.jpg" /></a></td>
     </tr>
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Buy</a><br/></td>
         <td><a href="https://books2read.com/u/3yXMjV">Buy</a></td>
-        <td>Pre-order coming soon!</td>
+        <td><a href="https://books2read.com/u/b6qE8p">Pre-order</a></td>
     </tr>
     <tr>
         <td>
