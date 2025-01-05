@@ -42,15 +42,13 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 
 ### Benefactor to the Baroness
 
-* alcohol use
-* biphobia
-* explicit sex
-* homophobia
-* human trafficing
-* physical abuse
-* threatening violence against children
-* violence against children
-
+* Alcohol use: Casual alcohol drinking in several scenes. A character gets intoxicated while alone.
+* Explicit sex: Explicit on-page kissing, fingering, oral.
+* Homophobia: Several characters cannot reveal that they are gay/bisexual for fear of social consequences. 
+* Human trafficing: Several children are kidnapped for the purposes of becoming indentured servants.
+* Physical abuse: Several characters are slapped, punched, and kicked.
+* Threatening violence against children: Children are threatened with beatings if they do not work for adults.
+* Violence against children: Children are punched, smacked, kicked, and threatened with more of the same.
 
 ### The Vampire's Guide to Wooing a Dressmaker
 
