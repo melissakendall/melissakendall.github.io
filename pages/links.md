@@ -26,7 +26,10 @@ permalink: /links
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Buy</a><br/></td>
         <td><a href="https://books2read.com/u/3yXMjV">Buy</a></td>
-        <td><a href="https://books2read.com/u/b6qE8p">Pre-order</a></td>
+        <td>
+            <a href="https://books2read.com/u/b6qE8p">Pre-order</a><br/>
+            <a href="https://www.netgalley.com/catalog/book/560492">Request on NetGallery</a>
+        </td>
     </tr>
     <tr>
         <td>
