@@ -22,7 +22,8 @@ Steamy Victorian romance mystery series.
     <tr>
         <td><a href="https://books2read.com/u/mlpO5A">Available now!</a></td>
         <td><a href="https://books2read.com/u/3yXMjV">Available now!</a></td>
-        <td><a href="https://www.netgalley.com/catalog/book/560492">Request on NetGallery</a></td>
+        <td><a href="https://books2read.com/u/b6qE8p">Available now!</a></td>
+
     </tr>       
 </table>
 
