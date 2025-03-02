@@ -52,11 +52,35 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 
 ### The Vampire's Guide to Wooing a Dressmaker
 
-Coming soon
+* Alcohol use: MMC drinks wine and other spirits in multiple scenes.
+* Assault: FMC assaulted and physically restrained by a man. MMC assaulted and beaten by several men.
+* Blood: Graphic descriptions of taste, texture, apperance of blood. MMC drinks blood, coughing up blood, FMC bleeds after a fatal wound. MMC cuts his wrists and offers the blood to another vampire.
+* Dead parents: MMC's parents are dead and mother figure abandoned him. FMC greives a parent.
+* Difficult relationship with parents: MMC abandoned by mother figure, FMC has strained relationship with parents.
+* Explicit sex: Oral (FMC and MMC), penetrative intercourse, spanking, caning, MMC inserts a cane into FMC, voyeurism, use of a sex toy (MMC on FMC), masturbation (MMC).
+* Fire: A building almost burns down with FMC and MMC inside.
+* Gore: Extremely graphic descriptions of MMC's wounds and FMC's injuries.
+* Murder: FMC graphically murders a man who assaults her.
+* Rituals/cults: MMC takes FMC to a cult meeting where members are naked dancing around a fire.
+* Smoking: Several characters smoke cigars.
+* Stabbing: FMC stabbed through the chest and stabs a man in the throat.
 
 ### The Vampire's Guide to Wooing a Scholar
 
-Coming soon
+* Alcohol use: MMC drinks wine and other spirits in multiple scenes.
+* Assault: MMC physically assaulted by a man (graphic injuries). MMC assaults siblings is assaulted by them (no signifigant injuries).
+* Blood: Graphic descriptions of taste, texture, apperance of blood. MMC drinks blood, FMC bleeds after a fatal wound.
+* Dead parents: MMC's parents are dead and mother figure abandoned him.
+* Death of animals: Several birds that are never seen on page are killed off page and the scene after is described. 
+* Difficult relationship with parents: MMC abandoned by mother figure, FMC has strained relationship with parents and uncle.
+* Drowning: MMC describes drowning during a storm.
+* Explicit sex: oral during period (MMC on FMC) loss of virginity, penetrative intercourse, spanking, masturbation (MMC), use of prehensile tail on FMC (anal). MMC sucks FMC's toes.
+* Gore: graphic descriptions of MMC's wounds. FMC impaled on page.
+* Guns: MMC is shot (graphic description), several rifles are fired.
+* Murder: MMC murders several people on page including by beheading and impaling.
+* Panic attacks: MMC experiences several panic attacks.
+* Scars: FMC has a scar from being branded (off page) on chest.
+* Smoking: Several characters smoke cigars.
 
 ### The Vampire's Guide to Wooing a Curator
 
