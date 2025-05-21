@@ -22,7 +22,7 @@ menus:
 - title: About
   url: /About
 - title: Books
-  url: /writing
+  url: /books
 - title: Manuscripts
   url: /manuscripts
 - title: Content warnings
