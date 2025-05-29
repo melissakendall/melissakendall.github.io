@@ -31,6 +31,8 @@ menus:
   url: /Projects
 - title: Media kits
   url: /media-kits
+- title: Jon my newsletter
+  url: /newsletter
 footer:
   content: '&copy; All rights reserved.'
 sass:
