@@ -15,7 +15,14 @@ permalink: /links
 
 <hr/>
 
-### Seductive Sleuths
+<ul>
+    <li><a href="/newsletter">Subscribe to my newsletter</a></li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScXFFbWb5M7VkAkiJhZq2OfTScOpfB_dml56YykuCPyJ5vNxg/viewform?usp=sharing&ouid=112122856023999045116">Request a free bookmark (supplies limited)</a></li>
+<ul>
+
+<hr/>
+
+<h3>Seductive Sleuths</h3>
 
 <table style="text-align: center;">
     <tr>
@@ -41,7 +48,7 @@ permalink: /links
     </tr>
 </table>
 
-### Fated Vampire Mates
+<h3>Fated Vampire Mates</h3>
 
 <table style="text-align:center">
     <tr>
@@ -57,7 +64,7 @@ permalink: /links
 </table>
 
 
-### Other books
+<h3>Other books</h3>
 
 <table style="text-align: center;">
     <tr>
