@@ -4,6 +4,46 @@ layout: page
 permalink: /books
 ---
 
+## Fated Vampire Mates
+
+A spicy historical paranormal romance series.
+
+### The Vampire's Guide to Wooing a Dressmaker (Book 1)
+
+<a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src='/images/dressmaker_cover.jpg'/></a>
+
+<a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">Coming Nov 15, 2025</a>
+
+<!-- TODO: Add books2read -->
+
+Tropes: Victorian era, vampires, mistress to lover, bucket list, spicy mirror scene, strangers to lovers, age gap, fated mates, masquerade.
+
+After fifty wearisome years of searching for his fated mate, vampire Cordon Shaw, Viscount Grayson, compiles a list of activities to complete before the lack of a mating bond kills him. In his pursuit of some sense of satisfaction, he stumbles upon a gorgeous woman who rebuffs his advances—and so he can’t resist relieving her of the box containing a beautiful scarf tucked in her pocket. Then he receives an invitation to visit the shop of the same woman whose name is carved on the lid of the item he stole.
+
+Respectable dressmaker Kitty Carter is determined to make her business prosper, even if it means making sacrifices, such as not chasing after the handsome thief who harassed her in the market. When she learns the mistress of a viscount had a public fight with her modiste, she writes to the viscount directly to petition his patronage. Then he arrives with her stolen scarf wrapped around his neck.
+
+She valiantly holds her tongue during the appointment despite his constant teasing, only for him to cancel the entire order and instead offer to pay her for each scandalous task she helps him complete. It’s an absurd proposition, but she cannot refuse, especially after a thug demands she repay the loan her parents took out to help her open her shop. But as steamy encounters in opera boxes and hedge mazes turn into awkward afternoon tea with her family and meeting his unusual siblings at midnight rituals, Kitty must decide what to prioritize: the allure of short-term pleasure, or the chance for enduring happiness.
+
+### The Vampire's Guide to Wooing a Scholar (Book 2)
+
+<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/scholar-peek.png'/></a>
+
+<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Coming Feb 21, 2026</a>
+
+<!-- TODO: Add books2read -->
+
+Tropes: Victorian era, vampires, Beauty and the Beast retelling, marriage of convenience, gothic castle, giant library, age gap, earl, penpals to lovers, he falls first, mutual pining, panic attacks.
+
+### The Vampire's Guide to Wooing a Curator (Book 3)
+
+<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/curator-peek.png'/></a>
+
+<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Coming May 15, 2026</a>
+
+<!-- TODO: Add books2read -->
+
+Tropes: Victorian era, vampires, enemies to lovers, age gap, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
+
 ## Seductive Sleuths
 
 Steamy Victorian romance mystery series.
@@ -55,40 +95,6 @@ Facing a lonely life after marrying off her nieces, Rosemary Summersby reluctant
 Then Lady Kerry stumbles into Rosemary’s cottage one night with an outrageous request: to travel across the ocean as her companion and help her uncover the mystery behind the missing orphans.
 
 Unable to convince the dowager baroness of the dangers of her plan and remembering the sense of responsibility that drove her to accept three orphans into her life fifteen years prior, Rosemary decides to join Lady Kerry on her trip. But as the vast ocean and a noble mission stretches before them, a shared purpose and a single bunk ignite an unexpected passion that makes both women question what they truly want for themselves.
-
-## Fated Vampire Mates
-
-A spicy historical paranormal romance series.
-
-### The Vampire's Guide to Wooing a Dressmaker (Book 1)
-
-<a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">Coming Nov 15, 2025</a>
-
-<!-- TODO: Add book cover with books2read -->
-
-Tropes: Victorian era, vampires, mistress to lover, bucket list, spicy mirror scene, strangers to lovers, age gap, fated mates, masquerade.
-
-After fifty wearisome years of searching for his fated mate, vampire Cordon Shaw, Viscount Grayson, compiles a list of activities to complete before the lack of a mating bond kills him. In his pursuit of some sense of satisfaction, he stumbles upon a gorgeous woman who rebuffs his advances—and so he can’t resist relieving her of the box containing a beautiful scarf tucked in her pocket. Then he receives an invitation to visit the shop of the same woman whose name is carved on the lid of the item he stole.
-
-Respectable dressmaker Kitty Carter is determined to make her business prosper, even if it means making sacrifices, such as not chasing after the handsome thief who harassed her in the market. When she learns the mistress of a viscount had a public fight with her modiste, she writes to the viscount directly to petition his patronage. Then he arrives with her stolen scarf wrapped around his neck.
-
-She valiantly holds her tongue during the appointment despite his constant teasing, only for him to cancel the entire order and instead offer to pay her for each scandalous task she helps him complete. It’s an absurd proposition, but she cannot refuse, especially after a thug demands she repay the loan her parents took out to help her open her shop. But as steamy encounters in opera boxes and hedge mazes turn into awkward afternoon tea with her family and meeting his unusual siblings at midnight rituals, Kitty must decide what to prioritize: the allure of short-term pleasure, or the chance for enduring happiness.
-
-### The Vampire's Guide to Wooing a Scholar (Book 2)
-
-<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Coming Feb 21, 2026</a>
-
-<!-- TODO: Add book cover with books2read -->
-
-Tropes: Victorian era, vampires, Beauty and the Beast retelling, marriage of convenience, gothic castle, giant library, age gap, earl, penpals to lovers, he falls first, mutual pining, panic attacks.
-
-### The Vampire's Guide to Wooing a Curator (Book 3)
-
-<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Coming May 15, 2026</a>
-
-<!-- TODO: Add book cover with books2read -->
-
-Tropes: Victorian era, vampires, enemies to lovers, age gap, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
 
 ## Standalone novels
 
