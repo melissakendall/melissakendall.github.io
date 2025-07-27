@@ -33,6 +33,8 @@ menus:
   url: /media-kits
 - title: Join my newsletter
   url: /newsletter
+- title: AI Stance
+  url: /anti-ai
 footer:
   content: '&copy; All rights reserved.'
 sass:
