@@ -34,6 +34,12 @@ She valiantly holds her tongue during the appointment despite his constant teasi
 
 Tropes: Victorian era, vampires, Beauty and the Beast retelling, marriage of convenience, gothic castle, giant library, age gap, earl, penpals to lovers, he falls first, mutual pining, panic attacks.
 
+After ten years of searching for a cure to the panic attacks that have kept him trapped in a remote Scottish castle, Marcus Deville, the Earl of Kingsberry, struggles to establish dominance and maintain the emotional distance necessary to keep his vampire siblings from killing each other. So, when he mistakenly receives an impassioned complaint intended for his publishing company, he cannot resist writing back and embarks on a secret months-long correspondence with an equally lonely woman in Toronto.
+
+Aspiring scholar Winifred Belltree longs for the freedom to research natural disasters, even if the only person who appreciates her interest is a solitary inventor living thousands of miles away. So, when her mother threatens to sell every book in their library if she doesn’t find a husband by the end of the season, she expresses her frustration to the earl, only for him to offer a solution to both of their problems: a marriage of convenience.
+
+Winifred agrees, despite her family’s concerns about her new husband’s nocturnal schedule. But as late-night experiments and days exploring an impressive library turn into socialization practice sessions designed to help him manage his attacks, Marcus and Winifred must decide what matters more: their passions—or their hearts.
+
 ### The Vampire's Guide to Wooing a Curator (Book 3)
 
 <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/curator-peek.png'/></a>

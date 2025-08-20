@@ -84,7 +84,22 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 
 ### The Vampire's Guide to Wooing a Curator
 
-Coming soon
+* Alcohol use: MMC and FMC both drinks wine and other spirits in multiple scenes.
+* Assault: MMC physically assaulted by several human and non-human characters (graphic injuries). MMC assaults siblings and is assaulted by them (no signifigant injuries). MMC has his throat torn out. FMC punches a man in the nose.
+* Blood: Graphic descriptions of taste, texture, apperance of blood. MMC drinks blood, FMC bleeds after a fatal wound.
+* Claustrophobia: Graphic descriptions of fear of confined spaces.
+* Dead parents: MMC's parents are dead and mother figure abandoned him. FMC's parents are dead, killed by a vampire. FMC witnesses parents murder.
+* Dead children: A character kills a child vampire. A child vampire struggles in an adult's grip.
+* Difficult relationship with parents: MMC abandoned by mother figure, FMC has strained relationship with cousins and granfather.
+* Drugs: Characters smoke opium on-page.
+* Explicit sex: near oral scene (MMC on FMC and FMC on MMC), loss of virginity, penetrative intercourse, public spanking (clothed). FMC watches a threesome (FMF) and a couple having vaginal sex, oral, and fingering. FMC is fingered.
+* Fire: FMC and MMC get trapped in burning building. A character burns her own skin.
+* Gore: graphic descriptions of several wounds. Graphic descriptions of corpses. Graphic description of werewolf transformation. Graphic descriptions of a badly burned hand (to the bone). FMC slices off a character's hand with a sword.
+* Murder: MMC and FMC murder several characters on page including by beheading, stabbing, and staking through the heart.
+* Panic attacks: FMC experiences several panic attacks due to claustrophobia. MMC panics thinking he is being strangled when he awakens.
+* Scars: FMC has a scar from being branded (off page) on arm.
+* Smoking: Several characters smoke cigars and pipes on page.
+* Torture: Graphic descriptions of emaciated humanoid creatures (starving).
 
 ### Marked for Harvest
 
