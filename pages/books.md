@@ -50,6 +50,12 @@ Winifred agrees, despite her family’s concerns about her new husband’s noctu
 
 Tropes: Victorian era, vampires, enemies to lovers, age gap, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
 
+Fifty-six years after being abandoned by the only woman he’s ever loved, vampire thief Jonathan Drake has no interest in finding his fated mate, even if the lack of a mating bond will eventually kill him. So, when he discovers the beautiful vampire hunter that once tried to kill his brother now possesses an ancient manuscript rumored to hold the secret to avoiding mating, he decides to punish her by convincing her to trust him then stealing the manuscript out from under her.
+
+After watching a vampire kill her parents, assistant curator Felicity Sorrow is determined to expose the evil creatures to the public, even if it means risking her reputation and employment by hosting a scandalous exhibit. So, when an irritatingly handsome reformed thief barges into her museum and points out several security flaws, she decides to cast a forbidden spell to ward her enemies away.
+
+Then a note is left outside her upcoming exhibit threatening the star of her collection and forcing her to accept Jonathan's help. But when a late-night rescue and failed spell prompt an unexpected camaraderie and a mission to find the vampire that killed Felicity's parents, she must decide if justice is worth sacrificing the first love she's felt in over a decade.
+
 ## Seductive Sleuths
 
 Steamy Victorian romance mystery series.
