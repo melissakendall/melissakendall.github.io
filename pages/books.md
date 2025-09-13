@@ -26,7 +26,7 @@ She valiantly holds her tongue during the appointment despite his constant teasi
 
 ### The Vampire's Guide to Wooing a Scholar (Book 2)
 
-<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/scholar-peek.png'/></a>
+<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/curator-peek.png'/></a>
 
 <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Coming Feb 21, 2026</a>
 
@@ -42,7 +42,7 @@ Winifred agrees, despite her family’s concerns about her new husband’s noctu
 
 ### The Vampire's Guide to Wooing a Curator (Book 3)
 
-<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/curator-peek.png'/></a>
+<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/scholar-peek.png'/></a>
 
 <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Coming May 15, 2026</a>
 
@@ -153,6 +153,6 @@ Some of these short stories have been unpublished and are no longer available.
         </td>
         <td>
             <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58"><img width="620" src='/images/RR.jpg'/></a> 
-        </td>   
+        </td>
     </tr>
 </table>
