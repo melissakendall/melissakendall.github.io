@@ -23,6 +23,26 @@ permalink: /links
 
 <hr/>
 
+<h3>Fated Vampire Mates</h3>
+
+<table style="text-align:center">
+    <tr>
+        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src="/images/dressmaker_cover.jpg" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src="/images/curator-peek.png" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/scholar-peek.png" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">The Vampire's Guide to Wooing a Dressmaker</a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">The Vampire's Guide to Wooing a Scholar</a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">The Vampire's Guide to Wooing a Curator</a></td>
+    </tr>   
+    <tr>
+        <td>Coming Nov 15, 2025</td>
+        <td>Coming Feb 21, 2026</td>
+        <td>Coming May 15, 2026</td>
+    </tr>       
+</table>
+
 <h3>Seductive Sleuths</h3>
 
 <table style="text-align: center;">
@@ -48,27 +68,6 @@ permalink: /links
         </td>
     </tr>
 </table>
-
-<h3>Fated Vampire Mates</h3>
-
-<table style="text-align:center">
-    <tr>
-        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src="/images/dressmaker_cover.jpg" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/scholar-peek.png" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src="/images/curator-peek.png" /></a></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">The Vampire's Guide to Wooing a Dressmaker</a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">The Vampire's Guide to Wooing a Scholar</a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">The Vampire's Guide to Wooing a Curator</a></td>
-    </tr>   
-    <tr>
-        <td>Coming Nov 15, 2025</td>
-        <td>Coming Feb 21, 2026</td>
-        <td>Coming May 15, 2026</td>
-    </tr>       
-</table>
-
 
 <h3>Other books</h3>
 
