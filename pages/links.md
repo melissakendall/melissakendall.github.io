@@ -28,13 +28,13 @@ permalink: /links
 <table style="text-align:center">
     <tr>
         <td>
-            <a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">Add on Goodreads</a>
+            <a href="https://books2read.com/u/m285YG">Pre-order for Nov 15</a>
         </td>
         <td>
-            <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Add on Goodreads</a>
+            <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Pre-order link coming soon</a>
         </td>
         <td>
-            <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Add on Goodreads</a>
+            <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Pre-order link coming soon</a>
         </td>
     </tr>
     <tr>
