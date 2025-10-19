@@ -14,8 +14,6 @@ A spicy historical paranormal romance series.
 
 <a href="https://books2read.com/u/m285YG">Pre-order for Nov 15, 2025</a>
 
-<!-- TODO: Add books2read -->
-
 Tropes: Victorian era, vampires, mistress to lover, bucket list, spicy mirror scene, strangers to lovers, age gap, fated mates, masquerade.
 
 After fifty wearisome years of searching for his fated mate, vampire Cordon Shaw, Viscount Grayson, compiles a list of activities to complete before the lack of a mating bond kills him. In his pursuit of some sense of satisfaction, he stumbles upon a gorgeous woman who rebuffs his advances—and so he can’t resist relieving her of the box containing a beautiful scarf tucked in her pocket. Then he receives an invitation to visit the shop of the same woman whose name is carved on the lid of the item he stole.
@@ -48,13 +46,13 @@ Winifred agrees, despite her family’s concerns about her new husband’s noctu
 
 <!-- TODO: Add books2read -->
 
-Tropes: Victorian era, vampires, enemies to lovers, age gap, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
+Tropes: Victorian era, vampires, enemies to lovers, age gap, forced obediance, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
 
-Fifty-six years after being abandoned by the only woman he’s ever loved, vampire thief Jonathan Drake has no interest in finding his fated mate, even if the lack of a mating bond will eventually kill him. So, when he discovers the beautiful vampire hunter that once tried to kill his brother now possesses an ancient manuscript rumored to hold the secret to avoiding mating, he decides to punish her by convincing her to trust him then stealing the manuscript out from under her.
+Fifty-six years after being abandoned by the only woman he’s ever loved, vampire thief Jonathan Drake has no interest in finding his fated mate, even if the lack of a mating bond will eventually kill him. So, when he discovers the beautiful vampire hunter who once tried to kill his brother now possesses an ancient manuscript rumored to hold the secret to surviving without a mate, he decides to punish her by convincing her to trust him before stealing the manuscript out from under her.
 
-After watching a vampire kill her parents, assistant curator Felicity Sorrow is determined to expose the evil creatures to the public, even if it means risking her reputation and employment by hosting a scandalous exhibit. So, when an irritatingly handsome reformed thief barges into her museum and points out several security flaws, she decides to cast a forbidden spell to ward her enemies away.
+After watching a vampire kill her parents, assistant curator Felicity Sorrow is determined to expose the evil creatures to the public, even if it means risking her reputation and employment by hosting a scandalous exhibit. Then an irritatingly handsome reformed thief barges into her museum and points out several security flaws. Determined to get revenge no matter the cost, she uses forbidden magic inherited from a distant ancestor to ward her enemies away.
 
-Then a note is left outside her upcoming exhibit threatening the star of her collection and forcing her to accept Jonathan's help. But when a late-night rescue and failed spell prompt an unexpected camaraderie and a mission to find the vampire that killed Felicity's parents, she must decide if justice is worth sacrificing the first love she's felt in over a decade.
+Then a note is left outside her upcoming exhibit threatening the centerpiece of her collection and forcing her to accept Jonathan’s help. But when a failed spell results in Jonathan becoming compelled to obey Felicity, she must decide between compelling him to help find the vampire who killed her parents or embracing the first love she’s felt in over a decade.
 
 ## Seductive Sleuths
 
