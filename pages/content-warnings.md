@@ -99,6 +99,7 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 * Panic attacks: FMC experiences several panic attacks due to claustrophobia. MMC panics thinking he is being strangled when he awakens.
 * Scars: FMC has a scar from being branded (off page) on arm.
 * Smoking: Several characters smoke cigars and pipes on page.
+* Stalking: The MMC stalks the FMC before the events of the book.
 * Torture: Graphic descriptions of emaciated humanoid creatures (starving).
 
 ### Marked for Harvest

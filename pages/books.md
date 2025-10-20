@@ -52,7 +52,7 @@ Fifty-six years after being abandoned by the only woman he’s ever loved, vampi
 
 After watching a vampire kill her parents, assistant curator Felicity Sorrow is determined to expose the evil creatures to the public, even if it means risking her reputation and employment by hosting a scandalous exhibit. Then an irritatingly handsome reformed thief barges into her museum and points out several security flaws. Determined to get revenge no matter the cost, she uses forbidden magic inherited from a distant ancestor to ward her enemies away.
 
-Then a note is left outside her upcoming exhibit threatening the centerpiece of her collection and forcing her to accept Jonathan’s help. But when a failed spell results in Jonathan becoming compelled to obey Felicity, she must decide between compelling him to help find the vampire who killed her parents or embracing the first love she’s felt in over a decade.
+Then a note is left outside her upcoming exhibit threatening the centerpiece of her collection and forcing her to accept Jonathan’s help. But when a failed spell results in Jonathan becoming compelled to obey Felicity, she must decide between ordering him to help find the vampire who killed her parents or embracing the first love she’s felt in over a decade.
 
 ## Seductive Sleuths
 
