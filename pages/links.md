@@ -28,6 +28,7 @@ permalink: /links
 <table style="text-align:center">
     <tr>
         <td>
+            <a href="https://www.netgalley.com/catalog/book/744043">Request an ARC on NetGallery</a><br/>
             <a href="https://books2read.com/u/m285YG">Pre-order for Nov 15</a>
         </td>
         <td>
