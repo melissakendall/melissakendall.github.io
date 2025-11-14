@@ -7,8 +7,6 @@ thumb_img_path: "melissa-vampire.JPG"
 content_img_path: "melissa-vampire.JPG"
 ---
 
-This is a lazy post. I'll make it better later, I promise.
-
 Today I am providing some insight into how I wrote The Vampire's Guide to Wooing a Dressmaker, which intially began as a Sapphic historical romance, but then became paranormal, and MF.
 
 I start out as usual, with character:

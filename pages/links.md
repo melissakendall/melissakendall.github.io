@@ -27,9 +27,13 @@ permalink: /links
 
 <table style="text-align:center">
     <tr>
+        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src="/images/dressmaker_cover.jpg" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/curator-peek.png" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src="/images/scholar-peek.png" /></a></td>
+    </tr>
+    <tr>
         <td>
-            <a href="https://www.netgalley.com/catalog/book/744043">Request an ARC on NetGallery</a><br/>
-            <a href="https://books2read.com/u/m285YG">Pre-order for Nov 15</a>
+            <a href="https://books2read.com/u/m285YG">Buy</a>
         </td>
         <td>
             <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Pre-order link coming soon</a>
@@ -39,17 +43,7 @@ permalink: /links
         </td>
     </tr>
     <tr>
-        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src="/images/dressmaker_cover.jpg" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/curator-peek.png" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src="/images/scholar-peek.png" /></a></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">The Vampire's Guide to Wooing a Dressmaker</a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">The Vampire's Guide to Wooing a Scholar</a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">The Vampire's Guide to Wooing a Curator</a></td>
-    </tr>   
-    <tr>
-        <td>Coming Nov 15, 2025</td>
+        <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmake">Add on Goodreads</a></td>
         <td>Coming Feb 21, 2026</td>
         <td>Coming May 15, 2026</td>
     </tr>       

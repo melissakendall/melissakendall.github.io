@@ -12,7 +12,7 @@ A spicy historical paranormal romance series.
 
 <a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src='/images/dressmaker_cover.jpg'/></a>
 
-<a href="https://books2read.com/u/m285YG">Pre-order for Nov 15, 2025</a>
+<a href="https://books2read.com/u/m285YG">Buy or Read on Kindle Unlimited</a>
 
 Tropes: Victorian era, vampires, mistress to lover, bucket list, spicy mirror scene, strangers to lovers, age gap, fated mates, masquerade.
 
