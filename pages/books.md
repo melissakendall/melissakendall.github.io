@@ -24,7 +24,7 @@ She valiantly holds her tongue during the appointment despite his constant teasi
 
 ### The Vampire's Guide to Wooing a Scholar (Book 2)
 
-<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/curator-peek.png'/></a>
+<a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/scholar_cover.jpg'/></a>
 
 <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Coming Feb 21, 2026</a>
 

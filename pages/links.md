@@ -28,7 +28,7 @@ permalink: /links
 <table style="text-align:center">
     <tr>
         <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src="/images/dressmaker_cover.jpg" /></a></td>
-        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/curator-peek.png" /></a></td>
+        <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src="/images/scholar_cover.jpg" /></a></td>
         <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src="/images/scholar-peek.png" /></a></td>
     </tr>
     <tr>
