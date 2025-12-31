@@ -43,3 +43,4 @@ I have a particular love of anthology movies.
 * The Mortuary Chronicles (2019)
 * Tales From the Darkside (1990)
 * Creepshow (1982)
+* "Monster Movie": Supernatural (S4E5)
