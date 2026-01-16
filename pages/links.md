@@ -36,7 +36,7 @@ permalink: /links
             <a href="https://books2read.com/u/m285YG">Buy</a>
         </td>
         <td>
-            <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Pre-order link coming soon</a>
+            <a href="https://books2read.com/u/3R2ApL">Pre-order for Feb 21</a>
         </td>
         <td>
             <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Pre-order link coming soon</a>

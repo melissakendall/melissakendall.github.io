@@ -28,7 +28,7 @@ She valiantly holds her tongue during the appointment despite his constant teasi
 
 <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Coming Feb 21, 2026</a>
 
-<!-- TODO: Add books2read -->
+<a href="https://books2read.com/u/3R2ApL">Pre order for Feb 21</a>
 
 Tropes: Victorian era, vampires, Beauty and the Beast retelling, marriage of convenience, gothic castle, giant library, age gap, earl, penpals to lovers, he falls first, mutual pining, panic attacks.
 
