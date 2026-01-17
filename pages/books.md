@@ -142,7 +142,7 @@ Some of these short stories have been unpublished and are no longer available.
             Second Best Thing in Second Time's a Charm
         </td>
         <td>
-            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58">The Worst Possible Thing in Romancing the Rake</a>
+            The Worst Possible Thing in Romancing the Rake
         </td>
     </tr>
     <tr>
