@@ -33,7 +33,7 @@ permalink: /links
     </tr>
     <tr>
         <td>
-            <a href="https://books2read.com/u/m285YG">Buy</a>
+            <a href="https://books2read.com/u/m285YG">Buy or read on KU</a>
         </td>
         <td>
             <a href="https://books2read.com/u/3R2ApL">Pre-order for Feb 21</a>
@@ -58,9 +58,9 @@ permalink: /links
         <td><a href="https://books2read.com/u/b6qE8p"><img width="300" src="/images/BTTB.jpg" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://books2read.com/u/mlpO5A">Buy</a><br/></td>
-        <td><a href="https://books2read.com/u/3yXMjV">Buy</a></td>
-        <td><a href="https://books2read.com/u/b6qE8p">Buy</a></td>
+        <td><a href="https://books2read.com/u/mlpO5A">Buy or read on KU</a><br/></td>
+        <td><a href="https://books2read.com/u/3yXMjV">Buy or read on KU</a></td>
+        <td><a href="https://books2read.com/u/b6qE8p">Buy or read on KU</a></td>
     </tr>
     <tr>
         <td>
@@ -82,16 +82,10 @@ permalink: /links
         <td>
             <a href="https://books2read.com/MarkedForHarvest"><img width="300" src="/images/MFH.jpg" /></a>
         </td>
-        <td>
-            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58"><img width="300" src="/images/RR.jpg" /></a>
-        </td>
     </tr>
     <tr>
         <td>
             <a href="https://books2read.com/MarkedForHarvest">Buy</a>
-        </td>
-        <td>
-            <a href="https://www.amazon.ca/Romancing-Rake-Historical-Romance-Collection-ebook/dp/B0DGFKRJ58">Pre-order</a>
         </td>
     </tr>
 </table>
