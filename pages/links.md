@@ -30,6 +30,7 @@ permalink: /links
             <a href="https://books2read.com/u/m285YG">Buy</a>
         </td>
         <td>
+            <a href="https://www.netgalley.com/catalog/book/790175">Request an ARC on NetGallery</a>
             <a href="https://books2read.com/u/3R2ApL">Pre-order for Feb 21</a>
         </td>
         <td>
