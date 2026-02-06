@@ -6,7 +6,7 @@ layout: page
 permalink: /About
 ---
 
-Melissa lives in Regina, Saskatchewan; the capital city that feels like a small town. A passionate public speaker, board game enthusiast and lover of all things Halloween, she spends her free time writing and spoiling her two cats.
+Melissa is four raccoons in a 19th century tea gown furiously arguing over who gets to write the next book. She lives in the windswept Canadian prairies and quiets the chaos by flipping back and forth between episodes of Bridgerton and Supernatural. When she is not sobbing over fictional characters, she can be found begging her ancient sewing machine to get through one more project.
 
 ---
 
