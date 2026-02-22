@@ -40,7 +40,12 @@ permalink: /links
         <td><a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker">Goodreads</a></td>
         <td><a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar">Goodreads</a></td>
         <td><a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Goodreads</a></td>
-    </tr>       
+    </tr>
+    <tr>
+        <td>Tropes: Mistress to lover, spicy hedge maze scene, age gap, class difference, bucket list</td>
+        <td>Tropes: Penpals to lovers, gothic setting, marriage of convenience, age gap, MMC has panic attacks</td>
+        <td>Tropes: Enemies to lovers, vampire x vampire hunter, public spanking, forced obediance</td>
+    </tr>
 </table>
 
 <h3 style="text-align:center">Seductive Sleuths</h3>
@@ -67,6 +72,13 @@ permalink: /links
             <a href="https://www.goodreads.com/book/show/131812290-benefactor-to-the-baroness">Goodreads</a>
         </td>
     </tr>
+    <tr>
+    <tr>
+        <td>Tropes: Amateur sleuths, mistaken identity, cat loving MMC, wallflower x rake</td>
+        <td>Tropes: Matchmaker x client, spicy bathtub scene, experienced FMC, inexperienced MMC</td>
+        <td>Tropes: Fake companion, mature FMCs, bisexual rep, only one bunk on the ship</td>
+    </tr>
+    </tr>
 </table>
 
 <h3 style="text-align:center">Other books</h3>
@@ -82,4 +94,6 @@ permalink: /links
             <a href="https://books2read.com/MarkedForHarvest">Buy</a>
         </td>
     </tr>
+    <tr>
+        <td>Tropes: Second chance romance, childhood friends to lovers, ghosts as tattoos</td>
 </table>
