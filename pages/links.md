@@ -27,10 +27,10 @@ permalink: /links
     </tr>
     <tr>
         <td>
-            <a href="https://books2read.com/u/m285YG">Buy</a>
+            <a href="https://books2read.com/u/4jkjnv">Buy</a>
         </td>
         <td>
-            <a href="https://books2read.com/u/3R2ApL">Buy</a>
+            <a href="https://books2read.com/u/bPPMEj">Buy</a>
         </td>
         <td>
             Coming May 15

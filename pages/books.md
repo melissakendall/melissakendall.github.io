@@ -12,7 +12,7 @@ A spicy historical paranormal romance series.
 
 <a href="https://www.goodreads.com/book/show/219295456-the-vampire-s-guide-to-wooing-a-dressmaker"><img width="300" src='/images/dressmaker_cover.jpg'/></a>
 
-<a href="https://books2read.com/u/m285YG">Buy or Read on Kindle Unlimited</a>
+<a href="https://books2read.com/u/4jkjnv">Buy or Read on Kindle Unlimited</a>
 
 Tropes: Victorian era, vampires, mistress to lover, bucket list, spicy mirror scene, strangers to lovers, age gap, fated mates, masquerade.
 
@@ -26,7 +26,7 @@ She valiantly holds her tongue during the appointment despite his constant teasi
 
 <a href="https://www.goodreads.com/book/show/219295490-the-vampire-s-guide-to-wooing-a-scholar"><img width="300" src='/images/scholar_cover.jpg'/></a>
 
-<a href="https://books2read.com/u/3R2ApL">Buy or Read on Kindle Unlimited</a>
+<a href="https://books2read.com/u/bPPMEj">Buy or Read on Kindle Unlimited</a>
 
 Tropes: Victorian era, vampires, Beauty and the Beast retelling, marriage of convenience, gothic castle, giant library, age gap, earl, penpals to lovers, he falls first, mutual pining, panic attacks.
 
