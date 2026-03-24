@@ -104,6 +104,28 @@ Then Lady Kerry stumbles into Rosemary’s cottage one night with an outrageous 
 
 Unable to convince the dowager baroness of the dangers of her plan and remembering the sense of responsibility that drove her to accept three orphans into her life fifteen years prior, Rosemary decides to join Lady Kerry on her trip. But as the vast ocean and a noble mission stretches before them, a shared purpose and a single bunk ignite an unexpected passion that makes both women question what they truly want for themselves.
 
+## Werewolves of Mayfair
+
+Coming in 2027 and 2028
+
+### Her Unseemly Wolf
+
+Details coming in 2027!
+
+[Add to Goodreads](https://www.goodreads.com/book/show/250188561-her-unseemly-wolf)
+
+### Her Unsuitable Wolf
+
+Details coming in 2027!
+
+[Add to Goodreads](https://www.goodreads.com/book/show/250188594-her-unsuitable-wolf)
+
+### Her Undiginfied Wolf
+
+Details coming in 2027!
+
+[Add to Goodreads](https://www.goodreads.com/book/show/250188606-her-undignified-wolf)
+
 ## Standalone novels
 
 ### Marked for Harvest
