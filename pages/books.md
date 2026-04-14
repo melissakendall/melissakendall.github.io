@@ -38,7 +38,7 @@ Winifred agrees, despite her family’s concerns about her new husband’s noctu
 
 ### The Vampire's Guide to Wooing a Curator (Book 3)
 
-<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/scholar-peek.png'/></a>
+<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/curator_cover.jpg'/></a>
 
 <a href="https://books2read.com/u/mqj9K6">Preorder</a>
 
