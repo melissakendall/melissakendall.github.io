@@ -40,9 +40,7 @@ Winifred agrees, despite her family’s concerns about her new husband’s noctu
 
 <a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator"><img width="300" src='/images/scholar-peek.png'/></a>
 
-<a href="https://www.goodreads.com/book/show/219295516-the-vampires-guide-to-wooing-a-curator">Coming May 15, 2026</a>
-
-<!-- TODO: Add books2read -->
+<a href="https://books2read.com/u/mqj9K6">Preorder</a>
 
 Tropes: Victorian era, vampires, enemies to lovers, age gap, forced obediance, secret identity, vampire x vampire hunter, healing blood, forbidden romance.
 

@@ -33,7 +33,7 @@ permalink: /links
             <a href="https://books2read.com/u/bPPMEj">Buy</a>
         </td>
         <td>
-            Coming May 15
+            <a href="https://books2read.com/u/mqj9K6">Preorder</a>
         </td>
     </tr>
     <tr>
