@@ -17,6 +17,39 @@ permalink: /links
 </div><!-- .social-links -->
 <hr/>
 
+<!--
+<h3 style="text-align:center">Werewolves of Mayfair</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src="" /></a></td>
+        <td><a href="https://books2read.com/u/3yXMjV"><img width="300" src="" /></a></td>
+        <td><a href="https://books2read.com/u/b6qE8p"><img width="300" src="" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://books2read.com/u/">Pre-order</a><br/></td>
+        <td><a href="https://books2read.com/u/">Pre-order</a></td>
+        <td><a href="https://books2read.com/u/">Pre-order</a></td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.goodreads.com/book/show/250188561-her-unseemly-wolf">Goodreads</a>
+        </td>
+        <td>
+            <a href="https://www.goodreads.com/book/show/250188594-her-unsuitable-wolf">Goodreads</a>
+        </td>
+        <td>
+            <a href="https://www.goodreads.com/book/show/250188606-her-undignified-wolf">Goodreads</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Tropes: Knitting magic, memory stealing, amnesia, forced proximity, werewolf x witch</td>
+        <td>Tropes: Opposites attract, rope play, matchmaking ghosts, werewolf x medium</td>
+        <td>Tropes: Height difference, Murder mystery, sentient building, werewolf x dryad</td>
+    </tr>
+</table>
+-->
+
 <h3 style="text-align:center">Fated Vampire Mates</h3>
 
 <table style="text-align:center">
@@ -73,11 +106,9 @@ permalink: /links
         </td>
     </tr>
     <tr>
-    <tr>
         <td>Tropes: Amateur sleuths, mistaken identity, cat loving MMC, wallflower x rake</td>
         <td>Tropes: Matchmaker x client, spicy bathtub scene, experienced FMC, inexperienced MMC</td>
         <td>Tropes: Fake companion, mature FMCs, bisexual rep, only one bunk on the ship</td>
-    </tr>
     </tr>
 </table>
 
@@ -88,12 +119,16 @@ permalink: /links
         <td>
             <a href="https://books2read.com/MarkedForHarvest"><img width="150" src="/images/MFH.jpg" /></a>
         </td>
+        <!--<td>Tending Lady Rowan's Garden</td>-->
     </tr>
     <tr>
         <td>
             <a href="https://books2read.com/MarkedForHarvest">Buy</a>
         </td>
+        <!--<td>Pre-order</td>-->
     </tr>
     <tr>
         <td>Tropes: Second chance romance, childhood friends to lovers, ghosts as tattoos</td>
+        <!--<td>Tropes: Class difference, "Assisted" bathing, lady's maid x employer, FMC disguised as man</td>-->
+    </tr>
 </table>
