@@ -66,7 +66,7 @@ permalink: /links
             <a href="https://books2read.com/u/bPPMEj">Buy</a>
         </td>
         <td>
-            <a href="https://books2read.com/u/mqj9K6">Preorder</a>
+            <a href="https://books2read.com/u/mqj9K6">Buy</a>
         </td>
     </tr>
     <tr>
