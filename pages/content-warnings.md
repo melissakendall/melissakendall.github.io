@@ -7,6 +7,27 @@ permalink: /cw
 This page includes content warnings for my published works. If I am missing content warnings for any books,
 please let me know through social media (MAKendallAuthor@) and I will update this page as soon as possible.
 
+### Tending Lady Rowan's Garden
+
+* Anxiety attack: A character has anxiety attacks on page
+* Blood: Several characters bleed on page
+* Body image issues: A character struggles when they let another character see their nude body
+* Chiroptophobia (Fear of bats): A character struggles with a fear of bats (no bats are harmed on or off page)
+* Classism: An upper class character thinks and speaks disparagingly to lower class characters
+* Claustrophobia: A character struggles with fear after being trapped in a cage
+* Dead husband/widow: A character’s husband recently died
+* Dead parents: A character’s father recently died
+* Dementia: A character describes and remembers a relative’s struggle with symptoms of dementia
+* Difficult relationship between parent and child: A character describes and thinks about how another character was kicked out of their house by their parent
+* Explicit sex: Oral, fingering, clitoris slapping
+* Gambling addiction: A character struggles with gambling addiction
+* Guns: A character is threatened with a pistol and shot
+* Homophobia/Biphobia: A character fears telling loved ones about their sexual orientation
+* Kidnapping: A character is threatened at gunpoint
+* Misgendering: A character believes another character is a man when they are actually a woman (unintentional), another character mockingly refers to the character by the wrong name (Mr. instead of Miss)
+* Natural disaster: Graphic detail of a landslide on page
+* Nightmares about traumatic events
+
 ### Companion to the Count
 
 * Ableism: Several women taunt a socially anxious, autistic-coded character into a panic attack. The autistic-coded character experiences social isolation and bullying.
