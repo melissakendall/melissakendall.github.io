@@ -140,3 +140,41 @@ please let me know through social media (MAKendallAuthor@) and I will update thi
 * swearing
 * violence
 * weapons
+
+### Her Undignified Wolf
+
+* Alcohol use
+* Blood
+* Death
+* Explicit sex
+* Panic attacks
+* Psychological torture
+* Murder
+* Torture
+
+### Her Unseemly Wolf
+
+* Alcohol use
+* Amnesia
+* Assault
+* Blood
+* Dead husband/Widow
+* Dead parents
+* Explicit sex
+* Gore
+* Greif
+* Murder
+* Smoking
+* Suicide
+* Suicidal ideation
+
+### Her Unsuitable Wolf
+
+* Alcohol use
+* Assault
+* Blood
+* Dead parents
+* Explicit sex
+* Gore
+* Immolation
+* Smoking

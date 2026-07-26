@@ -106,6 +106,20 @@ Unable to convince the dowager baroness of the dangers of her plan and rememberi
 
 Coming in 2027 and 2028
 
+### Her Undiginfied Wolf
+
+Details coming in 2027!
+
+[Add to Goodreads](https://www.goodreads.com/book/show/250188606-her-undignified-wolf)
+
+<!--
+Pint-sized werewolf Ruth Blakely is the most feared assassin in London, yet her packmates still treat her like a pup. Determined to prove herself, she accepts an impossible contract on a unkillable dryad who never leaves her inn, only to find herself framed for a murder she didn't commit.
+
+As a dryad, Selina Garrison should have died when her soul tree was cut down. Instead, she bonded to the Wyldewood Inn that was built with wood from her tree. Untouchable yet trapped, she survives by draining the life energy of her guests. Then a prickly werewolf spills blood on her floorboards and the magically-infused inn revolts, sealing everyone inside.
+
+United by a common goal to find the real killer, Selina and Ruth form a shaky alliance that leads to Ruth finally experiencing the respect she craves and to Selina finding the one person who doesn't fear her. But as the alliance turns heated, Selina and Ruth discover that the Wyldewood Inn has plans of its own—and its hunger might consume them both.
+-->
+
 ### Her Unseemly Wolf
 
 Details coming in 2027!
@@ -114,11 +128,11 @@ Details coming in 2027!
 
 <!--
 
-Haunted by memories of her husband’s death, witch Scarlett Cameron makes her living extracting unwanted memories from the minds of humans--even though the cost of her gift is being unable to forget any memory she takes. The memories haunt her every waking moment, but as she prepares to take her own life, an injured wolf crashes into her garden and transforms into a beautiful woman who can’t remember anything before she was bitten by a werewolf.
+Haunted by memories of her husband’s death, witch Scarlett Cameron makes her living extracting unwanted memories from the minds of humans, even though the cost of her gift is being unable to forget any memory she takes. The memories haunt her every waking moment, but as she prepares to take her own life, an injured wolf crashes into her garden and transforms into a beautiful woman who can’t remember anything before she was bitten by a werewolf.
 
-Valentine is the solution to Scarlett’s problems: a werewolf’s bite might erase all of her own memories. But Valentine, clinging to the lingering scent of the man who left her for dead, insists on a bargain of her own: she will only bite Scarlett if Scarlett helps her recover her own past.
+Valentine is the solution to Scarlett’s problems: a werewolf's bite might erase all of her own memories. But Valentine, clinging to the lingering scent of the man who left her for dead, insists on a bargain of her own: she will only bite Scarlett if Scarlett helps her recover her own past.
 
-Although reluctant to reenter society and face the humans who tormented her husband, Scarlett agrees and makes Valentine her lady’s maid to keep her close. But as searching for clues in crowded ballrooms and bustling markets turn into nights wrapped in each other's arms, Scarlett must decide if freedom from grief is worth forgetting the one person who has made her want to live again.
+Although reluctant to reenter society and face the humans who tormented her husband, Scarlett agrees and makes Valentine’s wolf form her familiar to keep her close. But as searching for clues in crowded ballrooms and bustling markets turn into nights wrapped in each other's arms, Scarlett must decide if freedom from grief is worth forgetting the one person who has made her want to live again.
 -->
 
 ### Her Unsuitable Wolf
@@ -128,27 +142,11 @@ Details coming in 2027!
 [Add to Goodreads](https://www.goodreads.com/book/show/250188594-her-unsuitable-wolf)
 
 <!--
-Werewolf Celina Hyde is an outcast, shunned by wolves who fear her unusual ability to force others to speak the truth. Longing to experience the kind of love her parents shared, she decides to seek a mate among a species unaware of her power; humans. Unfortunately, every suitor who gets close to her is injured by mysteriously falling objects or shoved into bodies of water by unseen foes. Convinced she is haunted, she seeks out a London spiritualist who claims the ability to remove any ghost.
+Werewolf Celina Hyde is an outcast, feared for her ability to force others to speak the truth. Longing to experience the kind of love her parents found, she decides to seek a mate among a species unaware of her power; humans. Unfortunately, every suitor who gets close to her is injured by mysteriously falling objects or shoved into bodies of water by unseen foes. Convinced she is haunted, she seeks out a London spiritualist who claims the ability to remove any ghost.
 
-Alison Costigan dreams of clawing her way out of poverty as she tells the desperate men and women who crowd her séance table what they want to hear, even when the ghosts surrounding her clients beg her not to. Then a beautiful woman haunted by more ghosts than Alison has ever seen storms into her shop and offers a fortune in exchange for an immediate exorcism. Sensing an easy mark, Alison agrees, until a furious Celina sees through Alison’s tricks and seals her ability to lie as punishment.
+Alison Costigan dreams of clawing her way out of poverty as she tells the desperate men and women who crowd her séance table what they want to hear, even when the ghosts clinging to her clients beg her not to. Then a beautiful woman haunted by more ghosts than Alison has ever seen storms into her shop and offers a fortune in exchange for an immediate exorcism. Sensing an easy mark, Alison agrees, until a furious Celina sees through Alison’s tricks and seals her ability to lie as punishment.
 
-Faced with eviction due to being unable to satisfy her regular clients, Alision begs Celina to remove the curse of honesty. Celina agrees, if Alison can remove the ghosts intent on preventing Celina from finding a mate. But as negotiations with ornery spirits transform an uneasy alliance into an unexpected friendship, Alison must decide if she’s willing to build a future on truth instead of lies and Celina must choose between the life she’s always wanted and the woman she can’t bear to lose.
--->
-
-### Her Undiginfied Wolf
-
-Details coming in 2027!
-
-[Add to Goodreads](https://www.goodreads.com/book/show/250188606-her-undignified-wolf)
-
-<!--
-Four-foot-eight werewolf Ruth Blakely has learned to use her size to become a successful assassin, yet her packmates still treat her like a pup. Determined to prove herself, she accepts a contract on the most feared creatures in London, only to end up framed for the murder of a vampire who is not her mark.
-
-As a dryad, Selina Garrison should have died when her soul tree was cut down. Instead, she bonded to the Wyldewood Inn that was built with her wood and found a new source of sustenance; life energy drained from her guests. Then a prickly werewolf spills blood within the Wyldewood and the sensitive, magic-infused inn revolts, sealing Selina inside with a killer.
-
-Though initially wary, Selina eventually believes Ruth’s claims of innocence and agrees to 
-help clear Ruth’s name before her pack sentences her to death for killing a vampire. But as Selina’s magic begins to wane from a lack of new guests and the uneasy alliance gives way to an overwhelming attraction, they discover the Wyldewood has plans of its own—and its hunger might consume them both. 
-
+Faced with eviction due to being unable to satisfy her regular clients, Alision begs Celina to remove the curse of honesty. Celina agrees, if Alison can banish the ghosts preventing Celina from finding her happily ever after. But as late night treks through graveyards and negotiations with ornery spirits transform into an unexpected friendship, Alison must decide if she’s willing to build a future on truth and Celina must choose between the life she’s always wanted and the woman she can’t bear to lose.
 -->
 
 ## Standalone novels

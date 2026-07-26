@@ -22,30 +22,30 @@ permalink: /links
 
 <table style="text-align: center;">
     <tr>
-        <td><a href="https://books2read.com/u/mlpO5A"><img width="300" src="" /></a></td>
-        <td><a href="https://books2read.com/u/3yXMjV"><img width="300" src="" /></a></td>
-        <td><a href="https://books2read.com/u/b6qE8p"><img width="300" src="" /></a></td>
+        <td><a href="https://books2read.com/u/TODO"><img width="300" src="" /></a></td>
+        <td><a href="https://books2read.com/u/TODO"><img width="300" src="" /></a></td>
+        <td><a href="https://books2read.com/u/TODO"><img width="300" src="" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://books2read.com/u/">Pre-order</a><br/></td>
-        <td><a href="https://books2read.com/u/">Pre-order</a></td>
-        <td><a href="https://books2read.com/u/">Pre-order</a></td>
+        <td><a href="https://books2read.com/u/TODO">Pre-order</a><br/></td>
+        <td><a href="https://books2read.com/u/TODO">Pre-order</a></td>
+        <td><a href="https://books2read.com/u/TODO">Pre-order</a></td>
     </tr>
     <tr>
+        <td>
+            <a href="https://www.goodreads.com/book/show/250188606-her-undignified-wolf">Goodreads</a>
+        </td>
         <td>
             <a href="https://www.goodreads.com/book/show/250188561-her-unseemly-wolf">Goodreads</a>
         </td>
         <td>
             <a href="https://www.goodreads.com/book/show/250188594-her-unsuitable-wolf">Goodreads</a>
         </td>
-        <td>
-            <a href="https://www.goodreads.com/book/show/250188606-her-undignified-wolf">Goodreads</a>
-        </td>
     </tr>
     <tr>
+        <td>Tropes: Height difference, Murder mystery, sentient building, werewolf x dryad</td>
         <td>Tropes: Knitting magic, memory stealing, amnesia, forced proximity, werewolf x witch</td>
         <td>Tropes: Opposites attract, rope play, matchmaking ghosts, werewolf x medium</td>
-        <td>Tropes: Height difference, Murder mystery, sentient building, werewolf x dryad</td>
     </tr>
 </table>
 -->
